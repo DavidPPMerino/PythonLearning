@@ -9,3 +9,12 @@
 """
 
 " V1.0 "
+soma = 0
+count = 0
+while True:
+    n = int(input('Escreva um valor (999 para parar): '))
+    if n == 999:
+        break
+    soma += n
+    count += 1
+print(f'A soma dos {count} valores foi de {soma}!')
