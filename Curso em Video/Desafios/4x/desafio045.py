@@ -1,8 +1,10 @@
-from random import choice
-from random import randint
-from time import sleep as slp
+""" Enunciado:
+        Crie um programa que faça o computador jogar Jokenpô com você.
+"""
 
-#
+" V1.0 "
+# from random import choice
+# from time import sleep as slp
 # print('\033[1;31m-'*16,'\033[4;33mJokenpô\033[m','\033[1;31m-\033[m'*17)
 #
 # ppt = ['pedra','papel','tesoura']
@@ -69,6 +71,9 @@ from time import sleep as slp
 #     else:
 #         print()
 
+""" Resolução Curso em Video """
+from random import randint
+from time import sleep
 items = ('Pedra', 'Papel', 'Tesoura')
 computador = randint(0,2)
 print('''Opções:
@@ -76,7 +81,39 @@ print('''Opções:
 [ 1 ] Papel
 [ 2 ] Tesoura''')
 jogador = int(input('Qual é a sua jogada? '))
+print('JO')
+sleep(1)
+print('KEN')
+sleep(1)
+print('PO!!!')
 print('-='*11)
 print(f'Computador jogou {items[computador]}')
 print(f'Jogador jogou {items[jogador]}')
 print('-='*11)
+if computador == 0: # computador jogou PEDRA
+    if jogador == 0:
+        print('EMPATE')
+    elif jogador == 1:
+        print('JOGADOR VENCE')
+    elif jogador == 2:
+        print('COMPUTADOR VENCE')
+    else:
+        print('JOGADA INVÁLIDA!')
+elif computador == 1: # computador jogou PAPEL
+    if jogador == 0:
+        print('COMPUTADOR VENCE')
+    elif jogador == 1:
+        print('EMPATE')
+    elif jogador == 2:
+        print('JOGADOR VENCE')
+    else:
+        print('JOGADA INVÁLIDA!')
+elif computador == 2: # computador jogou TESOURA
+    if jogador == 0:
+        print('JOGADOR VENCE')
+    elif jogador == 1:
+        print('COMPUTADOR VENCE')
+    elif jogador == 2:
+        print('EMPATE')
+    else:
+        print('JOGADA INVÁLIDA!')
