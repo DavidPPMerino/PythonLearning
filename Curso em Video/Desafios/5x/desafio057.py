@@ -11,7 +11,7 @@
 # while sexo not in ('M', 'F'):
 #     sexo = input('Sexo: [M/F] ').strip().upper()
 #     if sexo not in ('M', 'F'):
-#         print('Opçao invalida!')
+#         print('Opção invalida!')
 #         tentativas += 1
 # print(f'Precisou de {tentativas} tentativas para escolher o seu sexo.')
 

@@ -1,9 +1,16 @@
+""" Enunciado:
+        Faça um programa que leia o 'peso' de 'cinco pessoas'.
+        No final, mostre qual foi o 'maior' e o 'menor' peso lidos.
+"""
+
+" V1.0 "
 # pesos = []
 # for c in range(1, 6):
 #      peso = float(input(f'Escreva o peso da {c}ª pessoa: Kg '))
 #      pesos.append(peso)
 # print(f'O maior peso foram {max(pesos):.2f}Kg e o menor foi {min(pesos):.2f}Kg! ')
 
+""" Resolução Curso em Video """
 maior = 0
 menor = 0
 for p in range(1, 6):
