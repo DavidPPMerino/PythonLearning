@@ -34,5 +34,5 @@ while True:
 print('-' * 30)
 print(f'{'Estatísticas Finais':=^30}')
 print(f'Total de pessoas com mais de 18 anos: {older_18}')
-print(f'Ao todo temos {men_amount} {'homem registado' if men_amount == 1 else 'homens registados'}')
+print(f'Ao todo temos {'nenhum' if men_amount == 0 else men_amount} {'homem registado' if men_amount <= 1 else 'homens registados'}')
 print(f'E temos {woman_less20} {'mulher' if woman_less20 == 1 else 'mulheres'} com menos de 20 anos')
