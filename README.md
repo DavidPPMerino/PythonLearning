@@ -127,7 +127,7 @@ This repository was created to assist me during my Python learning journey and p
 
 - ["Curso em Video"](#curso-em-video-1)
    - [Worlds](#worlds)
-   - [Lessons / Notes](Curso%20em%20Video/README.md)
+   - [Curso em Video Content Index](#curso-em-video-content-index)
    
 
 ***
@@ -159,7 +159,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 
 ***
 <details>
-     <summary>Sorted by Sequence/summary>
+     <summary>Sorted by Sequence</summary>
 <details open>
  <summary>Lessons / Notes</summary>
      
