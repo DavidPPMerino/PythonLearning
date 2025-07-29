@@ -9,13 +9,13 @@
 
 Este repositório foi criado para auxiliar-me durante a aprendizagem de Python e possivelmente ajudar outra pessoas que estejam a aprender tambem.
 
-## Glossário
+## Índice
 
 - [Curso em Video](#curso-em-video)
    - [Mundos](#mundos)
-   - [Aulas / Anotações](Curso%20em%20Video/Aulas)
-   - Pratica das aulas
-   - Exercicios
+   - [Aulas / Anotações](Curso%20em%20Video/README.md)
+   - [Pratica das aulas](Curso%20em%20Video/README.md)
+   - [Exercicios](Curso%20em%20Video/README.md)
 
 ***     
      
@@ -63,13 +63,13 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 
 This repository was created to assist me during my Python learning journey and possibly help other people who are also learning.
 
-## Glossary
+## Index
 
 - ["Curso em Video"](#curso-em-video-1)
    - [Worlds](#worlds)
-   - [Lessons / Notes](Curso%20em%20Video/Aulas)
-   - Practical class exercises
-   - Exercises
+   - [Lessons / Notes](Curso%20em%20Video/README.md)
+   - [Practical class exercises](Curso%20em%20Video/README.md)
+   - [Exercises](Curso%20em%20Video/README.md)
 
 ***
 
