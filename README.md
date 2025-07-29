@@ -55,17 +55,18 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 <details open>
  <summary>Aulas / Anotações</summary>
      
-    → Aula #04 - Primeiros comandos
-    → Aula #06 - Tipos Primitivos e Saida de dados
-    → Aula #07 - Operadores Aritméticos
-    → Aula #08 - Módulos
-    → Aula #09 - Manipulação de Texto
-    → Aula #10 - Condições (Parte 1)
-    → Aula #11 - Cores no terminal
-    → Aula #12 - Condiçoes
-    → Aula #13 - Estruturas de Repetição "for"
-    → Aula #14 - Estruturas de Repetição "while"
-    → Aula #15 - Interrompendo Repetições "while"
+- [→ Aula #04 - Primeiros comandos](Curso%20em%20Video/Aulas/04%20Primeiros%20comandos.py)
+- [→ Aula #06 - Tipos Primitivos e Saida de dados](Curso%20em%20Video/Aulas/06%20Tipos%20primitivos%20e%20saida%20de%20dados.py)
+- [→ Aula #07 - Operadores Aritméticos](Curso%20em%20Video/Aulas/07%20Operadores%20Aritmeticos.py)
+- [→ Aula #08 - Módulos](Curso%20em%20Video/Aulas/08%20Modulos.py)
+- [→ Aula #09 - Manipulação de Texto](Curso%20em%20Video/Aulas/09%20Manipular%20Texto(string).py)
+- [→ Aula #10 - Condições (Parte 1)](Curso%20em%20Video/Aulas/10%20Condiçoes%20pt1.py)
+- [→ Aula #11 - Cores no terminal](Curso%20em%20Video/Aulas/11%20Cores%20no%20terminal.py)
+- [→ Aula #12 - Condiçoes](Curso%20em%20Video/Aulas/12%20condiçoes%20aninhadas.py)
+- [→ Aula #13 - Estruturas de Repetição "for"](Curso%20em%20Video/Aulas/13%20Estruturas%20de%20repetição%20For.py)
+- [→ Aula #14 - Estruturas de Repetição "while"](Curso%20em%20Video/Aulas/14%20Estrutura%20de%20repetição%20while.py)
+- [→ Aula #15 - Interrompendo Repetições "while"](Curso%20em%20Video/Aulas/15%20Interrompendo%20repetições%20while.py)
+  
 </details>
 <details open>
 <summary>Prática das Aulas</summary>
@@ -86,79 +87,122 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 <details open>
 <summary>Exercicios</summary>
 
-    → Exercicio #001 - Respondendo ao Usuário
-    → Exercicio #002 - Data de Nascimento
-    → Exercicio #003 - Somando dois números
-    → Exercicio #004 - Dissecando uma Variável
-    → Exercicio #005 - Antecessor e Sucessor
-    → Exercicio #006 - Dobro, Triplo, Raiz Quadrada
-    → Exercicio #007 - Média Aritmética
-    → Exercicio #008 - Conversor de Medidas
-    → Exercicio #009 - Tabuada
-    → Exercicio #010 - Conversor de Moedas
-    → Exercicio #011 - Pintando Parede
-    → Exercicio #012 - Calculando Descontos
-    → Exercicio #013 - Reajuste Salarial
-    → Exercicio #014 - Conversor de Temperaturas
-    → Exercicio #015 - Aluguel de Carros
-    → Exercicio #016 - Quebrando um número
-    → Exercicio #017 - Catetos e Hipotenusa
-    → Exercicio #018 - Seno, Cosseno e Tangente
-    → Exercicio #019 - Sorteando um item na lista
-    → Exercicio #020 - Sorteando uma ordem na lista
-    → Exercicio #021 - Tocando um MP3
-    → Exercicio #022 - Analisador de Textos
-    → Exercicio #023 - Separando dígitos de um número
-    → Exercicio #024 - Verificando as primeiras letras de um texto
-    → Exercicio #025 - Procurando uma string dentro de outra
-    → Exercicio #026 - Primeira e última ocorrência de uma string
-    → Exercicio #027 - Primeiro e último nome de uma pessoa
-    → Exercicio #028 - Jogo da Adivinhação v1.0
-    → Exercicio #029 - Radar eletrônico
-    → Exercicio #030 - Par ou Ímpar?
-    → Exercicio #031 - Custo da Viagem
-    → Exercicio #032 - Ano Bissexto
-    → Exercicio #033 - Maior e menor valores
-    → Exercicio #034 - Aumentos múltiplos
-    → Exercicio #035 - Analisando Triângulo v1.0
-    → Exercicio #036 - Aprovando Empréstimo
-    → Exercicio #037 - Conversor de Bases Numéricas
-    → Exercicio #038 - Comparando números
-    → Exercicio #039 - Alistamento Militar
-    → Exercicio #040 - Aquele clássico da Média
-    → Exercicio #041 - Classificando Atletas
-    → Exercicio #042 - Analisando Triângulos v2.0
-    → Exercicio #043 - Índice de Massa Corporal
-    → Exercicio #044 - Gerenciador de Pagamentos
-    → Exercicio #045 - GAME: Pedra, Papel e Tesoura
-    → Exercicio #046 - Contagem regressiva
-    → Exercicio #047 - Contagem de pares
-    → Exercicio #048 - Soma ímpares multiplos de três
-    → Exercicio #049 - Tabuada v2.0
-    → Exercicio #050 - Soma dos pares
-    → Exercicio #051 - Progressão Aritmética
-    → Exercicio #052 - Números primos
-    → Exercicio #053 - Detector de Palíndromo
-    → Exercicio #054 - Grupo da Maioridade
-    → Exercicio #055 - Maior e menor da sequência
-    → Exercicio #056 - Analisador completo
-    → Exercicio #057 - Validação de Dados
-    → Exercicio #058 - Jogo da Adivinhação v2.0
-    → Exercicio #059 - Criando um Menu de Opções
-    → Exercicio #060 - Cálculo do Fatorial
-    → Exercicio #061 - Progressão Aritmética v2.0
-    → Exercicio #062 - Super Progressão Aritmética v3.0
-    → Exercicio #063 - Sequência de Fibonacci v1.0
-    → Exercicio #064 - Tratando vários valores v1.0
-    → Exercicio #065 - Maior e Menor valores
-    → Exercicio #066 - Vários números com flag
-    → Exercicio #067 - Tabuada v3.0
-    → Exercicio #068 - Jogo do Par ou Ímpar
-    → Exercicio #069 - Análise de dados do grupo
-    → Exercicio #070 - Estatísticas em produtos
-    → Exercicio #071 - Simulador de Caixa Eletrônico
-    → Exercicio #0
-    
+- [→ Exercicio #001 - Respondendo ao Usuário](Curso%20em%20Video/Desafios/0x/desafio001.py)  
+- [→ Exercicio #002 - Data de Nascimento](Curso%20em%20Video/Desafios/0x/desafio002.py)  
+- [→ Exercicio #003 - Somando dois números](Curso%20em%20Video/Desafios/0x/desafio003.py)  
+- [→ Exercicio #004 - Dissecando uma Variável](Curso%20em%20Video/Desafios/0x/desafio004.py)  
+- [→ Exercicio #005 - Antecessor e Sucessor](Curso%20em%20Video/Desafios/0x/desafio005.py)  
+- [→ Exercicio #006 - Dobro, Triplo, Raiz Quadrada](Curso%20em%20Video/Desafios/0x/desafio006.py)  
+- [→ Exercicio #007 - Média Aritmética](Curso%20em%20Video/Desafios/0x/desafio007.py)  
+- [→ Exercicio #008 - Conversor de Medidas](Curso%20em%20Video/Desafios/0x/desafio008.py)  
+- [→ Exercicio #009 - Tabuada](Curso%20em%20Video/Desafios/0x/desafio009.py)  
+- [→ Exercicio #010 - Conversor de Moedas](Curso%20em%20Video/Desafios/1x/desafio010.py)  
+- [→ Exercicio #011 - Pintando Parede](Curso%20em%20Video/Desafios/1x/desafio011.py)  
+- [→ Exercicio #012 - Calculando Descontos](Curso%20em%20Video/Desafios/1x/desafio012.py)  
+- [→ Exercicio #013 - Reajuste Salarial](Curso%20em%20Video/Desafios/1x/desafio013.py)  
+- [→ Exercicio #014 - Conversor de Temperaturas](Curso%20em%20Video/Desafios/1x/desafio014.py)  
+- [→ Exercicio #015 - Aluguel de Carros](Curso%20em%20Video/Desafios/1x/desafio015.py)  
+- [→ Exercicio #016 - Quebrando um número](Curso%20em%20Video/Desafios/1x/desafio016.py)  
+- [→ Exercicio #017 - Catetos e Hipotenusa](Curso%20em%20Video/Desafios/1x/desafio017.py)  
+- [→ Exercicio #018 - Seno, Cosseno e Tangente](Curso%20em%20Video/Desafios/1x/desafio018.py)  
+- [→ Exercicio #019 - Sorteando um item na lista](Curso%20em%20Video/Desafios/1x/desafio019.py)  
+- [→ Exercicio #020 - Sorteando uma ordem na lista](Curso%20em%20Video/Desafios/2x/desafio020.py)  
+- [→ Exercicio #021 - Tocando um MP3](Curso%20em%20Video/Desafios/2x/desafio021.py)  
+- [→ Exercicio #022 - Analisador de Textos](Curso%20em%20Video/Desafios/2x/desafio022.py)  
+- [→ Exercicio #023 - Separando dígitos de um número](Curso%20em%20Video/Desafios/2x/desafio023.py)  
+- [→ Exercicio #024 - Verificando as primeiras letras de um texto](Curso%20em%20Video/Desafios/2x/desafio024.py)  
+- [→ Exercicio #025 - Procurando uma string dentro de outra](Curso%20em%20Video/Desafios/2x/desafio025.py)  
+- [→ Exercicio #026 - Primeira e última ocorrência de uma string](Curso%20em%20Video/Desafios/2x/desafio026.py)  
+- [→ Exercicio #027 - Primeiro e último nome de uma pessoa](Curso%20em%20Video/Desafios/2x/desafio027.py)  
+- [→ Exercicio #028 - Jogo da Adivinhação v1.0](Curso%20em%20Video/Desafios/2x/desafio028.py)  
+- [→ Exercicio #029 - Radar eletrônico](Curso%20em%20Video/Desafios/2x/desafio029.py)  
+- [→ Exercicio #030 - Par ou Ímpar?](Curso%20em%20Video/Desafios/3x/desafio030.py)  
+- [→ Exercicio #031 - Custo da Viagem](Curso%20em%20Video/Desafios/3x/desafio031.py)  
+- [→ Exercicio #032 - Ano Bissexto](Curso%20em%20Video/Desafios/3x/desafio032.py)  
+- [→ Exercicio #033 - Maior e menor valores](Curso%20em%20Video/Desafios/3x/desafio033.py)  
+- [→ Exercicio #034 - Aumentos múltiplos](Curso%20em%20Video/Desafios/3x/desafio034.py)  
+- [→ Exercicio #035 - Analisando Triângulo v1.0](Curso%20em%20Video/Desafios/3x/desafio035.py)  
+- [→ Exercicio #036 - Aprovando Empréstimo](Curso%20em%20Video/Desafios/3x/desafio036.py)  
+- [→ Exercicio #037 - Conversor de Bases Numéricas](Curso%20em%20Video/Desafios/3x/desafio037.py)  
+- [→ Exercicio #038 - Comparando números](Curso%20em%20Video/Desafios/3x/desafio038.py)  
+- [→ Exercicio #039 - Alistamento Militar](Curso%20em%20Video/Desafios/3x/desafio039.py)  
+- [→ Exercicio #040 - Aquele clássico da Média](Curso%20em%20Video/Desafios/4x/desafio040.py)  
+- [→ Exercicio #041 - Classificando Atletas](Curso%20em%20Video/Desafios/4x/desafio041.py)  
+- [→ Exercicio #042 - Analisando Triângulos v2.0](Curso%20em%20Video/Desafios/4x/desafio042.py)  
+- [→ Exercicio #043 - Índice de Massa Corporal](Curso%20em%20Video/Desafios/4x/desafio043.py)  
+- [→ Exercicio #044 - Gerenciador de Pagamentos](Curso%20em%20Video/Desafios/4x/desafio044.py)  
+- [→ Exercicio #045 - GAME: Pedra, Papel e Tesoura](Curso%20em%20Video/Desafios/4x/desafio045.py)  
+- [→ Exercicio #046 - Contagem regressiva](Curso%20em%20Video/Desafios/4x/desafio046.py)  
+- [→ Exercicio #047 - Contagem de pares](Curso%20em%20Video/Desafios/4x/desafio047.py)  
+- [→ Exercicio #048 - Soma ímpares multiplos de três](Curso%20em%20Video/Desafios/4x/desafio048.py)  
+- [→ Exercicio #049 - Tabuada v2.0](Curso%20em%20Video/Desafios/4x/desafio049.py)  
+- [→ Exercicio #050 - Soma dos pares](Curso%20em%20Video/Desafios/5x/desafio050.py)  
+- [→ Exercicio #051 - Progressão Aritmética](Curso%20em%20Video/Desafios/5x/desafio051.py)  
+- [→ Exercicio #052 - Números primos](Curso%20em%20Video/Desafios/5x/desafio052.py)  
+- [→ Exercicio #053 - Detector de Palíndromo](Curso%20em%20Video/Desafios/5x/desafio053.py)  
+- [→ Exercicio #054 - Grupo da Maioridade](Curso%20em%20Video/Desafios/5x/desafio054.py)  
+- [→ Exercicio #055 - Maior e menor da sequência](Curso%20em%20Video/Desafios/5x/desafio055.py)  
+- [→ Exercicio #056 - Analisador completo](Curso%20em%20Video/Desafios/5x/desafio056.py)  
+- [→ Exercicio #057 - Validação de Dados](Curso%20em%20Video/Desafios/5x/desafio057.py)  
+- [→ Exercicio #058 - Jogo da Adivinhação v2.0](Curso%20em%20Video/Desafios/5x/desafio058.py)  
+- [→ Exercicio #059 - Criando um Menu de Opções](Curso%20em%20Video/Desafios/5x/desafio059.py)  
+- [→ Exercicio #060 - Cálculo do Fatorial](Curso%20em%20Video/Desafios/6x/desafio060.py)  
+- [→ Exercicio #061 - Progressão Aritmética v2.0](Curso%20em%20Video/Desafios/6x/desafio061.py)  
+- [→ Exercicio #062 - Super Progressão Aritmética v3.0](Curso%20em%20Video/Desafios/6x/desafio062.py)  
+- [→ Exercicio #063 - Sequência de Fibonacci v1.0](Curso%20em%20Video/Desafios/6x/desafio063.py)  
+- [→ Exercicio #064 - Tratando vários valores v1.0](Curso%20em%20Video/Desafios/6x/desafio064.py)  
+- [→ Exercicio #065 - Maior e Menor valores](Curso%20em%20Video/Desafios/6x/desafio065.py)  
+- [→ Exercicio #066 - Vários números com flag](Curso%20em%20Video/Desafios/6x/desafio066.py)  
+- [→ Exercicio #067 - Tabuada v3.0](Curso%20em%20Video/Desafios/6x/desafio067.py)  
+- [→ Exercicio #068 - Jogo do Par ou Ímpar](Curso%20em%20Video/Desafios/6x/desafio068.py)  
+- [→ Exercicio #069 - Análise de dados do grupo](Curso%20em%20Video/Desafios/6x/desafio069.py)  
+- [→ Exercicio #070 - Estatísticas em produtos](Curso%20em%20Video/Desafios/7x/desafio070.py)  
+- [→ Exercicio #071 - Simulador de Caixa Eletrônico](Curso%20em%20Video/Desafios/7x/desafio071.py)  
+- [→ Exercício #072](Curso%20em%20Video/Desafios/7x/desafio072.py)  
+- [→ Exercício #073](Curso%20em%20Video/Desafios/7x/desafio073.py)  
+- [→ Exercício #074](Curso%20em%20Video/Desafios/7x/desafio074.py)  
+- [→ Exercício #075](Curso%20em%20Video/Desafios/7x/desafio075.py)  
+- [→ Exercício #076](Curso%20em%20Video/Desafios/7x/desafio076.py)  
+- [→ Exercício #077](Curso%20em%20Video/Desafios/7x/desafio077.py)  
+- [→ Exercício #078](Curso%20em%20Video/Desafios/7x/desafio078.py)  
+- [→ Exercício #079](Curso%20em%20Video/Desafios/7x/desafio079.py)  
+- [→ Exercício #080](Curso%20em%20Video/Desafios/8x/desafio080.py)  
+- [→ Exercício #081](Curso%20em%20Video/Desafios/8x/desafio081.py)  
+- [→ Exercício #082](Curso%20em%20Video/Desafios/8x/desafio082.py)  
+- [→ Exercício #083](Curso%20em%20Video/Desafios/8x/desafio083.py)  
+- [→ Exercício #084](Curso%20em%20Video/Desafios/8x/desafio084.py)  
+- [→ Exercício #085](Curso%20em%20Video/Desafios/8x/desafio085.py)  
+- [→ Exercício #086](Curso%20em%20Video/Desafios/8x/desafio086.py)  
+- [→ Exercício #087](Curso%20em%20Video/Desafios/8x/desafio087.py)  
+- [→ Exercício #088](Curso%20em%20Video/Desafios/8x/desafio088.py)  
+- [→ Exercício #089](Curso%20em%20Video/Desafios/8x/desafio089.py)  
+- [→ Exercício #090](Curso%20em%20Video/Desafios/9x/desafio090.py)  
+- [→ Exercício #091](Curso%20em%20Video/Desafios/9x/desafio091.py)  
+- [→ Exercício #092](Curso%20em%20Video/Desafios/9x/desafio092.py)  
+- [→ Exercício #093](Curso%20em%20Video/Desafios/9x/desafio093.py)  
+- [→ Exercício #094](Curso%20em%20Video/Desafios/9x/desafio094.py)  
+- [→ Exercício #095](Curso%20em%20Video/Desafios/9x/desafio095.py)  
+- [→ Exercício #096](Curso%20em%20Video/Desafios/9x/desafio096.py)  
+- [→ Exercício #097](Curso%20em%20Video/Desafios/9x/desafio097.py)  
+- [→ Exercício #098](Curso%20em%20Video/Desafios/9x/desafio098.py)  
+- [→ Exercício #099](Curso%20em%20Video/Desafios/9x/desafio099.py)  
+- [→ Exercício #100](Curso%20em%20Video/Desafios/10x/desafio100.py)  
+- [→ Exercício #101](Curso%20em%20Video/Desafios/10x/desafio101.py)  
+- [→ Exercício #102](Curso%20em%20Video/Desafios/10x/desafio102.py)  
+- [→ Exercício #103](Curso%20em%20Video/Desafios/10x/desafio103.py)  
+- [→ Exercício #104](Curso%20em%20Video/Desafios/10x/desafio104.py)  
+- [→ Exercício #105](Curso%20em%20Video/Desafios/10x/desafio105.py)  
+- [→ Exercício #106](Curso%20em%20Video/Desafios/10x/desafio106.py)  
+- [→ Exercício #107](Curso%20em%20Video/Desafios/10x/desafio107.py)  
+- [→ Exercício #108](Curso%20em%20Video/Desafios/10x/desafio108.py)  
+- [→ Exercício #109](Curso%20em%20Video/Desafios/10x/desafio109.py)  
+- [→ Exercício #110](Curso%20em%20Video/Desafios/11x/desafio110.py)  
+- [→ Exercício #111](Curso%20em%20Video/Desafios/11x/desafio111.py)  
+- [→ Exercício #112](Curso%20em%20Video/Desafios/11x/desafio112.py)  
+- [→ Exercício #113](Curso%20em%20Video/Desafios/11x/desafio113.py)  
+- [→ Exercício #114](Curso%20em%20Video/Desafios/11x/desafio114.py)  
+- [→ Exercício #115](Curso%20em%20Video/Desafios/11x/desafio115.py)  
+
     
 </details>
 </details>
@@ -277,14 +321,19 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 <details open>
  <summary>Lessons / Notes</summary>
      
-    → Aula #04 - Primeiros comandos
-    → Aula #06 - Tipos Primitivos e Saida de dados
-    → Aula #07 - Operadores Aritméticos
-    → Aula #08 - Módulos
-    → Aula #09 - Manipulação de Texto
-    → Aula #10 - Condições (Parte 1)
-    → Aula #11 - Cores no terminal
-    → Aula #12 - Condiçoes
+- [→ Lesson #04 - First commands](Curso%20em%20Video/Aulas/04%20Primeiros%20comandos.py)  
+- [→ Lesson #06 - Primitive Types and Data Output](Curso%20em%20Video/Aulas/06%20Tipos%20primitivos%20e%20saida%20de%20dados.py)  
+- [→ Lesson #07 - Arithmetic Operators](Curso%20em%20Video/Aulas/07%20Operadores%20Aritmeticos.py)  
+- [→ Lesson #08 - Modules](Curso%20em%20Video/Aulas/08%20Modulos.py)  
+- [→ Lesson #09 - Text Manipulation](Curso%20em%20Video/Aulas/09%20Manipular%20Texto(string).py)  
+- [→ Lesson #10 - Conditions (Part 1)](Curso%20em%20Video/Aulas/10%20Condiçoes%20pt1.py)  
+- [→ Lesson #11 - Terminal Colors](Curso%20em%20Video/Aulas/11%20Cores%20no%20terminal.py)  
+- [→ Lesson #12 - Conditions](Curso%20em%20Video/Aulas/12%20condiçoes%20aninhadas.py)  
+- [→ Lesson #13 - "for" Loop Structures](Curso%20em%20Video/Aulas/13%20Estruturas%20de%20repetição%20For.py)  
+- [→ Lesson #14 - "while" Loop Structure](Curso%20em%20Video/Aulas/14%20Estrutura%20de%20repetição%20while.py)  
+- [→ Lesson #15 - Interrupting "while" Loops](Curso%20em%20Video/Aulas/15%20Interrompendo%20repetições%20while.py)  
+
+
 </details>
 <details open>
 <summary>Practical Class Exercises</summary>
@@ -296,9 +345,124 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 <details open>
 <summary>Exercises</summary>
 
-    →
-    →
-    →
+- [→ Exercise #001 - Responding to the User](Curso%20em%20Video/Desafios/0x/desafio001.py)  
+- [→ Exercise #002 - Date of Birth](Curso%20em%20Video/Desafios/0x/desafio002.py)  
+- [→ Exercise #003 - Adding two numbers](Curso%20em%20Video/Desafios/0x/desafio003.py)  
+- [→ Exercise #004 - Dissecting a Variable](Curso%20em%20Video/Desafios/0x/desafio004.py)  
+- [→ Exercise #005 - Predecessor and Successor](Curso%20em%20Video/Desafios/0x/desafio005.py)  
+- [→ Exercise #006 - Double, Triple, Square Root](Curso%20em%20Video/Desafios/0x/desafio006.py)  
+- [→ Exercise #007 - Arithmetic Mean](Curso%20em%20Video/Desafios/0x/desafio007.py)  
+- [→ Exercise #008 - Unit Converter](Curso%20em%20Video/Desafios/0x/desafio008.py)  
+- [→ Exercise #009 - Multiplication Table](Curso%20em%20Video/Desafios/0x/desafio009.py)  
+- [→ Exercise #010 - Currency Converter](Curso%20em%20Video/Desafios/1x/desafio010.py)  
+- [→ Exercise #011 - Painting a Wall](Curso%20em%20Video/Desafios/1x/desafio011.py)  
+- [→ Exercise #012 - Calculating Discounts](Curso%20em%20Video/Desafios/1x/desafio012.py)  
+- [→ Exercise #013 - Salary Adjustment](Curso%20em%20Video/Desafios/1x/desafio013.py)  
+- [→ Exercise #014 - Temperature Converter](Curso%20em%20Video/Desafios/1x/desafio014.py)  
+- [→ Exercise #015 - Car Rental](Curso%20em%20Video/Desafios/1x/desafio015.py)  
+- [→ Exercise #016 - Breaking a Number](Curso%20em%20Video/Desafios/1x/desafio016.py)  
+- [→ Exercise #017 - Catheti and Hypotenuse](Curso%20em%20Video/Desafios/1x/desafio017.py)  
+- [→ Exercise #018 - Sine, Cosine, and Tangent](Curso%20em%20Video/Desafios/1x/desafio018.py)  
+- [→ Exercise #019 - Randomly Selecting an Item](Curso%20em%20Video/Desafios/1x/desafio019.py)  
+- [→ Exercise #020 - Randomly Ordering a List](Curso%20em%20Video/Desafios/2x/desafio020.py)  
+- [→ Exercise #021 - Playing an MP3](Curso%20em%20Video/Desafios/2x/desafio021.py)  
+- [→ Exercise #022 - Text Analyzer](Curso%20em%20Video/Desafios/2x/desafio022.py)  
+- [→ Exercise #023 - Separating Number Digits](Curso%20em%20Video/Desafios/2x/desafio023.py)  
+- [→ Exercise #024 - Checking the First Letters of a Text](Curso%20em%20Video/Desafios/2x/desafio024.py)  
+- [→ Exercise #025 - Searching a String Inside Another](Curso%20em%20Video/Desafios/2x/desafio025.py)  
+- [→ Exercise #026 - First and Last Occurrence of a String](Curso%20em%20Video/Desafios/2x/desafio026.py)  
+- [→ Exercise #027 - First and Last Name of a Person](Curso%20em%20Video/Desafios/2x/desafio027.py)  
+- [→ Exercise #028 - Guessing Game v1.0](Curso%20em%20Video/Desafios/2x/desafio028.py)  
+- [→ Exercise #029 - Electronic Radar](Curso%20em%20Video/Desafios/2x/desafio029.py)  
+- [→ Exercise #030 - Even or Odd?](Curso%20em%20Video/Desafios/3x/desafio030.py)  
+- [→ Exercise #031 - Travel Cost](Curso%20em%20Video/Desafios/3x/desafio031.py)  
+- [→ Exercise #032 - Leap Year](Curso%20em%20Video/Desafios/3x/desafio032.py)  
+- [→ Exercise #033 - Biggest and Smallest Values](Curso%20em%20Video/Desafios/3x/desafio033.py)  
+- [→ Exercise #034 - Multiple Increases](Curso%20em%20Video/Desafios/3x/desafio034.py)  
+- [→ Exercise #035 - Analyzing Triangle v1.0](Curso%20em%20Video/Desafios/3x/desafio035.py)  
+- [→ Exercise #036 - Approving a Loan](Curso%20em%20Video/Desafios/3x/desafio036.py)  
+- [→ Exercise #037 - Number Base Converter](Curso%20em%20Video/Desafios/3x/desafio037.py)  
+- [→ Exercise #038 - Comparing Numbers](Curso%20em%20Video/Desafios/3x/desafio038.py)  
+- [→ Exercise #039 - Military Enlistment](Curso%20em%20Video/Desafios/3x/desafio039.py)  
+- [→ Exercise #040 - The Classic Average](Curso%20em%20Video/Desafios/4x/desafio040.py)  
+- [→ Exercise #041 - Classifying Athletes](Curso%20em%20Video/Desafios/4x/desafio041.py)  
+- [→ Exercise #042 - Analyzing Triangles v2.0](Curso%20em%20Video/Desafios/4x/desafio042.py)  
+- [→ Exercise #043 - Body Mass Index](Curso%20em%20Video/Desafios/4x/desafio043.py)  
+- [→ Exercise #044 - Payment Manager](Curso%20em%20Video/Desafios/4x/desafio044.py)  
+- [→ Exercise #045 - GAME: Rock, Paper, Scissors](Curso%20em%20Video/Desafios/4x/desafio045.py)  
+- [→ Exercise #046 - Countdown](Curso%20em%20Video/Desafios/4x/desafio046.py)  
+- [→ Exercise #047 - Counting Even Numbers](Curso%20em%20Video/Desafios/4x/desafio047.py)  
+- [→ Exercise #048 - Sum of Odd Multiples of Three](Curso%20em%20Video/Desafios/4x/desafio048.py)  
+- [→ Exercise #049 - Multiplication Table v2.0](Curso%20em%20Video/Desafios/4x/desafio049.py)  
+- [→ Exercise #050 - Sum of Even Numbers](Curso%20em%20Video/Desafios/5x/desafio050.py)  
+- [→ Exercise #051 - Arithmetic Progression](Curso%20em%20Video/Desafios/5x/desafio051.py)  
+- [→ Exercise #052 - Prime Numbers](Curso%20em%20Video/Desafios/5x/desafio052.py)  
+- [→ Exercise #053 - Palindrome Detector](Curso%20em%20Video/Desafios/5x/desafio053.py)  
+- [→ Exercise #054 - Age Group](Curso%20em%20Video/Desafios/5x/desafio054.py)  
+- [→ Exercise #055 - Biggest and Smallest in the Sequence](Curso%20em%20Video/Desafios/5x/desafio055.py)  
+- [→ Exercise #056 - Complete Analyzer](Curso%20em%20Video/Desafios/5x/desafio056.py)  
+- [→ Exercise #057 - Data Validation](Curso%20em%20Video/Desafios/5x/desafio057.py)  
+- [→ Exercise #058 - Guessing Game v2.0](Curso%20em%20Video/Desafios/5x/desafio058.py)  
+- [→ Exercise #059 - Creating a Options Menu](Curso%20em%20Video/Desafios/5x/desafio059.py)  
+- [→ Exercise #060 - Factorial Calculation](Curso%20em%20Video/Desafios/6x/desafio060.py)  
+- [→ Exercise #061 - Arithmetic Progression v2.0](Curso%20em%20Video/Desafios/6x/desafio061.py)  
+- [→ Exercise #062 - Super Arithmetic Progression v3.0](Curso%20em%20Video/Desafios/6x/desafio062.py)  
+- [→ Exercise #063 - Fibonacci Sequence v1.0](Curso%20em%20Video/Desafios/6x/desafio063.py)  
+- [→ Exercise #064 - Handling Multiple Values v1.0](Curso%20em%20Video/Desafios/6x/desafio064.py)  
+- [→ Exercise #065 - Biggest and Smallest Values](Curso%20em%20Video/Desafios/6x/desafio065.py)  
+- [→ Exercise #066 - Multiple Numbers with Flag](Curso%20em%20Video/Desafios/6x/desafio066.py)  
+- [→ Exercise #067 - Multiplication Table v3.0](Curso%20em%20Video/Desafios/6x/desafio067.py)  
+- [→ Exercise #068 - Even or Odd Game](Curso%20em%20Video/Desafios/6x/desafio068.py)  
+- [→ Exercise #069 - Group Data Analysis](Curso%20em%20Video/Desafios/6x/desafio069.py)  
+- [→ Exercise #070 - Product Statistics](Curso%20em%20Video/Desafios/7x/desafio070.py)  
+- [→ Exercise #071 - ATM Simulator](Curso%20em%20Video/Desafios/7x/desafio071.py)  
+- [→ Exercise #072](Curso%20em%20Video/Desafios/7x/desafio072.py)  
+- [→ Exercise #073](Curso%20em%20Video/Desafios/7x/desafio073.py)  
+- [→ Exercise #074](Curso%20em%20Video/Desafios/7x/desafio074.py)  
+- [→ Exercise #075](Curso%20em%20Video/Desafios/7x/desafio075.py)  
+- [→ Exercise #076](Curso%20em%20Video/Desafios/7x/desafio076.py)  
+- [→ Exercise #077](Curso%20em%20Video/Desafios/7x/desafio077.py)  
+- [→ Exercise #078](Curso%20em%20Video/Desafios/7x/desafio078.py)  
+- [→ Exercise #079](Curso%20em%20Video/Desafios/7x/desafio079.py)  
+- [→ Exercise #080](Curso%20em%20Video/Desafios/8x/desafio080.py)  
+- [→ Exercise #081](Curso%20em%20Video/Desafios/8x/desafio081.py)  
+- [→ Exercise #082](Curso%20em%20Video/Desafios/8x/desafio082.py)  
+- [→ Exercise #083](Curso%20em%20Video/Desafios/8x/desafio083.py)  
+- [→ Exercise #084](Curso%20em%20Video/Desafios/8x/desafio084.py)  
+- [→ Exercise #085](Curso%20em%20Video/Desafios/8x/desafio085.py)  
+- [→ Exercise #086](Curso%20em%20Video/Desafios/8x/desafio086.py)  
+- [→ Exercise #087](Curso%20em%20Video/Desafios/8x/desafio087.py)  
+- [→ Exercise #088](Curso%20em%20Video/Desafios/8x/desafio088.py)  
+- [→ Exercise #089](Curso%20em%20Video/Desafios/8x/desafio089.py)  
+- [→ Exercise #090](Curso%20em%20Video/Desafios/9x/desafio090.py)  
+- [→ Exercise #091](Curso%20em%20Video/Desafios/9x/desafio091.py)  
+- [→ Exercise #092](Curso%20em%20Video/Desafios/9x/desafio092.py)  
+- [→ Exercise #093](Curso%20em%20Video/Desafios/9x/desafio093.py)  
+- [→ Exercise #094](Curso%20em%20Video/Desafios/9x/desafio094.py)  
+- [→ Exercise #095](Curso%20em%20Video/Desafios/9x/desafio095.py)  
+- [→ Exercise #096](Curso%20em%20Video/Desafios/9x/desafio096.py)  
+- [→ Exercise #097](Curso%20em%20Video/Desafios/9x/desafio097.py)  
+- [→ Exercise #098](Curso%20em%20Video/Desafios/9x/desafio098.py)  
+- [→ Exercise #099](Curso%20em%20Video/Desafios/9x/desafio099.py)  
+- [→ Exercise #100](Curso%20em%20Video/Desafios/10x/desafio100.py)  
+- [→ Exercise #101](Curso%20em%20Video/Desafios/10x/desafio101.py)  
+- [→ Exercise #102](Curso%20em%20Video/Desafios/10x/desafio102.py)  
+- [→ Exercise #103](Curso%20em%20Video/Desafios/10x/desafio103.py)  
+- [→ Exercise #104](Curso%20em%20Video/Desafios/10x/desafio104.py)  
+- [→ Exercise #105](Curso%20em%20Video/Desafios/10x/desafio105.py)  
+- [→ Exercise #106](Curso%20em%20Video/Desafios/10x/desafio106.py)  
+- [→ Exercise #107](Curso%20em%20Video/Desafios/10x/desafio107.py)  
+- [→ Exercise #108](Curso%20em%20Video/Desafios/10x/desafio108.py)  
+- [→ Exercise #109](Curso%20em%20Video/Desafios/10x/desafio109.py)  
+- [→ Exercise #110](Curso%20em%20Video/Desafios/11x/desafio110.py)  
+- [→ Exercise #111](Curso%20em%20Video/Desafios/11x/desafio111.py)  
+- [→ Exercise #112](Curso%20em%20Video/Desafios/11x/desafio112.py)  
+- [→ Exercise #113](Curso%20em%20Video/Desafios/11x/desafio113.py)  
+- [→ Exercise #114](Curso%20em%20Video/Desafios/11x/desafio114.py)  
+- [→ Exercise #115](Curso%20em%20Video/Desafios/11x/desafio115.py)  
+
+
+
 </details>
 </details>
 
