@@ -717,7 +717,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #043 - Body Mass Index](Curso%20em%20Video/Desafios/4x/desafio043.py)  
 - [→ Exercise #044 - Payment Manager](Curso%20em%20Video/Desafios/4x/desafio044.py)  
 - [→ Exercise #045 - GAME: Rock, Paper, Scissors](Curso%20em%20Video/Desafios/4x/desafio045.py)  
-
+  <br>  
 - [→ Lesson #13 - "for" Loop Structures](Curso%20em%20Video/Aulas/13%20Estruturas%20de%20repetição%20For.py)  
 - [→ Practice #13a](Curso%20em%20Video/Aulas%20Praticas/aula13a.py)  
 - [→ Exercise #046 - Countdown](Curso%20em%20Video/Desafios/4x/desafio046.py)  
@@ -731,7 +731,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #054 - Age Group](Curso%20em%20Video/Desafios/5x/desafio054.py)  
 - [→ Exercise #055 - Biggest and Smallest in the Sequence](Curso%20em%20Video/Desafios/5x/desafio055.py)  
 - [→ Exercise #056 - Complete Analyzer](Curso%20em%20Video/Desafios/5x/desafio056.py)  
-
+  <br>  
 - [→ Lesson #14 - "while" Loop Structure](Curso%20em%20Video/Aulas/14%20Estrutura%20de%20repetição%20while.py)  
 - [→ Practice #14a](Curso%20em%20Video/Aulas%20Praticas/aula14a.py)  
 - [→ Exercise #057 - Data Validation](Curso%20em%20Video/Desafios/5x/desafio057.py)  
@@ -743,7 +743,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #063 - Fibonacci Sequence v1.0](Curso%20em%20Video/Desafios/6x/desafio063.py)  
 - [→ Exercise #064 - Handling Multiple Values v1.0](Curso%20em%20Video/Desafios/6x/desafio064.py)  
 - [→ Exercise #065 - Biggest and Smallest Values](Curso%20em%20Video/Desafios/6x/desafio065.py)  
-
+  <br>  
 - [→ Lesson #15 - Interrupting "while" Loops](Curso%20em%20Video/Aulas/15%20Interrompendo%20repetições%20while.py)  
 - [→ Practice #15a](Curso%20em%20Video/Aulas%20Praticas/aula15a.py)  
 - [→ Exercise #066 - Multiple Numbers with Flag](Curso%20em%20Video/Desafios/6x/desafio066.py)  
