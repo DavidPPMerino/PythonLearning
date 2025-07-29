@@ -648,12 +648,12 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Practice #04a](Curso%20em%20Video/Aulas%20Praticas/aula04a.py)  
 - [→ Exercise #001 - Responding to the User](Curso%20em%20Video/Desafios/0x/desafio001.py)  
 - [→ Exercise #002 - Date of Birth](Curso%20em%20Video/Desafios/0x/desafio002.py)  
-<br>  
+  <br>  
 - [→ Lesson #06 - Primitive Types and Data Output](Curso%20em%20Video/Aulas/06%20Tipos%20primitivos%20e%20saida%20de%20dados.py)  
 - [→ Practice #06a](Curso%20em%20Video/Aulas%20Praticas/aula06a.py)  
 - [→ Exercise #003 - Adding two numbers](Curso%20em%20Video/Desafios/0x/desafio003.py)  
 - [→ Exercise #004 - Dissecting a Variable](Curso%20em%20Video/Desafios/0x/desafio004.py)  
-<br>  
+  <br>  
 - [→ Lesson #07 - Arithmetic Operators](Curso%20em%20Video/Aulas/07%20Operadores%20Aritmeticos.py)  
 - [→ Practice #07a](Curso%20em%20Video/Aulas%20Praticas/aula07a.py)  
 - [→ Exercise #005 - Predecessor and Successor](Curso%20em%20Video/Desafios/0x/desafio005.py)  
@@ -667,7 +667,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #013 - Salary Adjustment](Curso%20em%20Video/Desafios/1x/desafio013.py)  
 - [→ Exercise #014 - Temperature Converter](Curso%20em%20Video/Desafios/1x/desafio014.py)  
 - [→ Exercise #015 - Car Rental](Curso%20em%20Video/Desafios/1x/desafio015.py)  
-<br>  
+  <br>  
 - [→ Lesson #08 - Modules](Curso%20em%20Video/Aulas/08%20Modulos.py)  
 - [→ Practice #08a](Curso%20em%20Video/Aulas%20Praticas/aula08a.py)  
 - [→ Practice #08b](Curso%20em%20Video/Aulas%20Praticas/aula08b.py)  
@@ -677,7 +677,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #019 - Randomly Selecting an Item](Curso%20em%20Video/Desafios/1x/desafio019.py)  
 - [→ Exercise #020 - Randomly Ordering a List](Curso%20em%20Video/Desafios/2x/desafio020.py)  
 - [→ Exercise #021 - Playing an MP3](Curso%20em%20Video/Desafios/2x/desafio021.py)  
-<br>
+  <br>  
 - [→ Lesson #09 - Text Manipulation](Curso%20em%20Video/Aulas/09%20Manipular%20Texto(string).py)  
 - [→ Practice #09a](Curso%20em%20Video/Aulas%20Praticas/aula09a.py)  
 - [→ Exercise #022 - Text Analyzer](Curso%20em%20Video/Desafios/2x/desafio022.py)  
@@ -686,7 +686,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #025 - Searching a String Inside Another](Curso%20em%20Video/Desafios/2x/desafio025.py)  
 - [→ Exercise #026 - First and Last Occurrence of a String](Curso%20em%20Video/Desafios/2x/desafio026.py)  
 - [→ Exercise #027 - First and Last Name of a Person](Curso%20em%20Video/Desafios/2x/desafio027.py)  
-<br>
+  <br>  
 - [→ Lesson #10 - Conditions (Part 1)](Curso%20em%20Video/Aulas/10%20Condiçoes%20pt1.py)  
 - [→ Practice #10a](Curso%20em%20Video/Aulas%20Praticas/aula10a.py)  
 - [→ Exercise #028 - Guessing Game v1.0](Curso%20em%20Video/Desafios/2x/desafio028.py)  
@@ -697,7 +697,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #033 - Biggest and Smallest Values](Curso%20em%20Video/Desafios/3x/desafio033.py)  
 - [→ Exercise #034 - Multiple Increases](Curso%20em%20Video/Desafios/3x/desafio034.py)  
 - [→ Exercise #035 - Analyzing Triangle v1.0](Curso%20em%20Video/Desafios/3x/desafio035.py)  
-<br>
+  <br>  
 - [→ Lesson #11 - Terminal Colors](Curso%20em%20Video/Aulas/11%20Cores%20no%20terminal.py)  
 - [→ Practice #11a](Curso%20em%20Video/Aulas%20Praticas/aula11a.py)  
     
