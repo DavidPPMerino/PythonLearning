@@ -63,13 +63,89 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
     → Aula #10 - Condições (Parte 1)
     → Aula #11 - Cores no terminal
     → Aula #12 - Condiçoes
+    → Aula #13 - Estruturas de Repetição "for"
+    → Aula #14 - Estruturas de Repetição "while"
+    → Aula #15 - Interrompendo Repetições "while"
 </details>
 <details open>
 <summary>Prática das Aulas</summary>
 
-    →
-    →
-    →
+    → Prática 04a
+    → Prática 06a
+    → Prática 07a
+    → Prática 08a
+    → Prática 08b
+    → Prática 09a
+    → Prática 10a
+    → Prática 11a
+    → Prática 12a
+    → Prática 13a
+    → Prática 14a
+    → Prática 15a
+</details>
+<details open>
+<summary>Exercicios</summary>
+
+    → Exercicio #001 - Respondendo ao Usuário
+    → Exercicio #002 - Data de Nascimento
+    → Exercicio #003 - Somando dois números
+    → Exercicio #004 - Dissecando uma Variável
+    → Exercicio #005 - Antecessor e Sucessor
+    → Exercicio #006 - Dobro, Triplo, Raiz Quadrada
+    → Exercicio #007 - Média Aritmética
+    → Exercicio #008 - Conversor de Medidas
+    → Exercicio #009 - Tabuada
+    → Exercicio #010 - Conversor de Moedas
+    → Exercicio #011 - Pintando Parede
+    → Exercicio #012 - Calculando Descontos
+    → Exercicio #013 - Reajuste Salarial
+    → Exercicio #014 - Conversor de Temperaturas
+    → Exercicio #015 - Aluguel de Carros
+    → Exercicio #016 - Quebrando um número
+    → Exercicio #017 - Catetos e Hipotenusa
+    → Exercicio #018 - Seno, Cosseno e Tangente
+    → Exercicio #019 - Sorteando um item na lista
+    → Exercicio #020 - Sorteando uma ordem na lista
+    → Exercicio #021 - Tocando um MP3
+    → Exercicio #022 - Analisador de Textos
+    → Exercicio #023 - Separando dígitos de um número
+    → Exercicio #024 - Verificando as primeiras letras de um texto
+    → Exercicio #025 - Procurando uma string dentro de outra
+    → Exercicio #026 - Primeira e última ocorrência de uma string
+    → Exercicio #027 - Primeiro e último nome de uma pessoa
+    → Exercicio #028 - Jogo da Adivinhação v1.0
+    → Exercicio #029 - Radar eletrônico
+    → Exercicio #030 - Par ou Ímpar?
+    → Exercicio #031 - Custo da Viagem
+    → Exercicio #032 - Ano Bissexto
+    → Exercicio #033 - Maior e menor valores
+    → Exercicio #034 - Aumentos múltiplos
+    → Exercicio #035 - Analisando Triângulo v1.0
+    → Exercicio #036 - Aprovando Empréstimo
+    → Exercicio #037 - Conversor de Bases Numéricas
+    → Exercicio #038 - Comparando números
+    → Exercicio #039 - Alistamento Militar
+    → Exercicio #040 - Aquele clássico da Média
+    → Exercicio #041 - Classificando Atletas
+    → Exercicio #042 - Analisando Triângulos v2.0
+    → Exercicio #043 - Índice de Massa Corporal
+    → Exercicio #044 - Gerenciador de Pagamentos
+    → Exercicio #045 - GAME: Pedra, Papel e Tesoura
+    → Exercicio #046 - Contagem regressiva
+    → Exercicio #047 - Contagem de pares
+    → Exercicio #048 - Soma ímpares multiplos de três
+    → Exercicio #049 - Tabuada v2.0
+    → Exercicio #050 - Soma dos pares
+    → Exercicio #051 - Progressão Aritmética
+    → Exercicio #052 - Números primos
+    → Exercicio #053 - Detector de Palíndromo
+    → Exercicio #054 - Grupo da Maioridade
+    → Exercicio #055 - Maior e menor da sequência
+    → Exercicio #056 - Analisador completo
+    → Exercicio #057 - Validação de Dados
+    → Exercicio #058 - Jogo da Adivinhação v2.0
+    → Exercicio #059 - Criando um Menu de Opções
+    → Exercicio #0
 </details>
 </details>
 
@@ -114,6 +190,18 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 >[!IMPORTANT]
 > Como o Guanabara diz:<br>
 > O curso é para ensinar a programar, não para ser um copiador de código!
+
+<br>
+<br>
+<br>
+
+---
+---
+---
+
+<br>
+<br>
+<br>
 
 ## EN
 
