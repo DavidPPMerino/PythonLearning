@@ -1,9 +1,10 @@
+## PT
 <p align="center">
 <img width="580" height="164" alt="python-logo" src="https://github.com/user-attachments/assets/5971a450-9da8-49fe-be3d-8ad72fb4c33a" />
 </p>
 <a href="https://github.com/DavidPPMerino/PythonLearning#pt"><img width="64" height="64" alt="Portuguese" src="https://github.com/user-attachments/assets/fe1069b8-5eda-4d57-93fc-db6c2635ac25" /></a>  <a href="https://github.com/DavidPPMerino/PythonLearning#en"><img width="64" height="64" alt="English" src="https://github.com/user-attachments/assets/879f3cc8-bbe3-490d-88be-ab687aa718b1" /></a>
 
-## PT
+
 # <ins>Bem-Vindo ao Python Learning</ins>
 
 Este repositório foi criado para auxiliar-me durante a aprendizagem de Python e possivelmente ajudar outra pessoas que estejam a aprender tambem.
@@ -36,13 +37,15 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 | [Python 3 - Mundo 2](https://youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&si=RCHIx1GT2YjBjHYK) | <a href="https://www.cursoemvideo.com/curso/python-3-mundo-2"><img width="150" height="150" alt="Python3–Mundo2-300x300" src="https://github.com/user-attachments/assets/7a3da174-4e2b-49a9-ab44-b2d25a18c282" /></a> | Estruturas de Controle | Este Mundo é composto por **<ins>4 aulas</ins>** e **<ins>35 exercícios</ins>** <br> Desde a aula #12 até a aula #15 <br> Desde o exercício #36 até ao exercício #071|
 | [Python 3 - Mundo 3](https://youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&si=VuQcakqiJMTaDaLk) | <a href="https://www.cursoemvideo.com/curso/python-3-mundo-3"><img width="150" height="150" alt="Python3–Mundo3-300x300" src="https://github.com/user-attachments/assets/d5492215-40c9-42dc-9d3a-8a33dbe95c21" /></a> | Estruturas Compostas | Este Mundo é composto por **<ins>8 aulas</ins>** e **<ins>42 exercícios</ins>** <br> Desde a aula #16 até a aula #23 <br> Desde o exercício #72 até ao exercício #115c|
 
+## EN
+
 <p align="center">
 <img width="580" height="164" alt="python-logo" src="https://github.com/user-attachments/assets/5971a450-9da8-49fe-be3d-8ad72fb4c33a" />
 </p>
 <a href="https://github.com/DavidPPMerino/PythonLearning#pt"><img width="64" height="64" alt="Portuguese" src="https://github.com/user-attachments/assets/fe1069b8-5eda-4d57-93fc-db6c2635ac25" /></a>  <a href="https://github.com/DavidPPMerino/PythonLearning#en"><img width="64" height="64" alt="English" src="https://github.com/user-attachments/assets/879f3cc8-bbe3-490d-88be-ab687aa718b1" /></a>
 
 ---
-## EN
+
 
 # <ins>Welcome to Python Learning</ins>
 
