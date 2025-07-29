@@ -145,7 +145,21 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
     → Exercicio #057 - Validação de Dados
     → Exercicio #058 - Jogo da Adivinhação v2.0
     → Exercicio #059 - Criando um Menu de Opções
+    → Exercicio #060 - Cálculo do Fatorial
+    → Exercicio #061 - Progressão Aritmética v2.0
+    → Exercicio #062 - Super Progressão Aritmética v3.0
+    → Exercicio #063 - Sequência de Fibonacci v1.0
+    → Exercicio #064 - Tratando vários valores v1.0
+    → Exercicio #065 - Maior e Menor valores
+    → Exercicio #066 - Vários números com flag
+    → Exercicio #067 - Tabuada v3.0
+    → Exercicio #068 - Jogo do Par ou Ímpar
+    → Exercicio #069 - Análise de dados do grupo
+    → Exercicio #070 - Estatísticas em produtos
+    → Exercicio #071 - Simulador de Caixa Eletrônico
     → Exercicio #0
+    
+    
 </details>
 </details>
 
