@@ -37,6 +37,13 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 | [Python 3 - Mundo 2](https://youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&si=RCHIx1GT2YjBjHYK) | <a href="https://www.cursoemvideo.com/curso/python-3-mundo-2"><img width="150" height="150" alt="Python3–Mundo2-300x300" src="https://github.com/user-attachments/assets/7a3da174-4e2b-49a9-ab44-b2d25a18c282" /></a> | Estruturas de Controle | Este Mundo é composto por **<ins>4 aulas</ins>** e **<ins>35 exercícios</ins>** <br> Desde a aula #12 até a aula #15 <br> Desde o exercício #36 até ao exercício #071|
 | [Python 3 - Mundo 3](https://youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&si=VuQcakqiJMTaDaLk) | <a href="https://www.cursoemvideo.com/curso/python-3-mundo-3"><img width="150" height="150" alt="Python3–Mundo3-300x300" src="https://github.com/user-attachments/assets/d5492215-40c9-42dc-9d3a-8a33dbe95c21" /></a> | Estruturas Compostas | Este Mundo é composto por **<ins>8 aulas</ins>** e **<ins>42 exercícios</ins>** <br> Desde a aula #16 até a aula #23 <br> Desde o exercício #72 até ao exercício #115c|
 
+> [!WARNING]
+> Não copie as soluções dos exercicios, apenas estará iludindo-se.
+
+>[!IMPORTANT]
+> Como o Guanabara diz:<br>
+> O curso é para ensinar a programar, não para ser um copiador de código!
+
 ## EN
 
 <p align="center">
@@ -79,6 +86,12 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 | [Python 3 - World 2](https://youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&si=RCHIx1GT2YjBjHYK) | <a href="https://www.cursoemvideo.com/curso/python-3-mundo-2"><img width="150" height="150" alt="Python3–World2-300x300" src="https://github.com/user-attachments/assets/7a3da174-4e2b-49a9-ab44-b2d25a18c282" /></a> | Control Structures | This World consists of **<ins>4 lessons</ins>** and **<ins>35 exercises</ins>** <br> From lesson #12 to lesson #15 <br> From exercise #36 to exercise #071|
 | [Python 3 - World 3](https://youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&si=VuQcakqiJMTaDaLk) | <a href="https://www.cursoemvideo.com/curso/python-3-mundo-3"><img width="150" height="150" alt="Python3–World3-300x300" src="https://github.com/user-attachments/assets/d5492215-40c9-42dc-9d3a-8a33dbe95c21" /></a> | Compound Structures | This World consists of **<ins>8 lessons</ins>** and **<ins>42 exercises</ins>** <br> From lesson #16 to lesson #23 <br> From exercise #72 to exercise #115c|
 
+> [!WARNING]
+> Do not copy the exercise solutions; you would only be fooling yourself.
+
+> [!IMPORTANT]
+> As Guanabara says:<br>
+> The course is meant to teach you how to program, not to make you a code copier!
 ---
 
 
