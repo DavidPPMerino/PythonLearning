@@ -12,7 +12,7 @@ Este repositório foi criado para auxiliar-me durante a aprendizagem de Python e
 ## Glossário
 
 - Curso em Video
-   - [Aulas / Anotações](Curso-em-Video/Aulas/README.md)
+   - [Aulas / Anotações](Curso%20em%20Video/Aulas)
    - Pratica das aulas
    - Exercicios
 
@@ -62,7 +62,7 @@ This repository was created to assist me during my Python learning journey and p
 ## Glossary
 
 - "Curso em Video"
-   - Lessons / Notes
+   - [Lessons / Notes](Curso%20em%20Video/Aulas)
    - Practical class exercises
    - Exercises
 
