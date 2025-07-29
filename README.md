@@ -269,7 +269,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercicio #033 - Maior e menor valores](Curso%20em%20Video/Desafios/3x/desafio033.py)  
 - [→ Exercicio #034 - Aumentos múltiplos](Curso%20em%20Video/Desafios/3x/desafio034.py)  
 - [→ Exercicio #035 - Analisando Triângulo v1.0](Curso%20em%20Video/Desafios/3x/desafio035.py)  
-  <br>
+  <br>  
 - [→ Aula #11 - Cores no terminal](Curso%20em%20Video/Aulas/11%20Cores%20no%20terminal.py)
 - [→ Prática #11a](Curso%20em%20Video/Aulas%20Praticas/aula11a.py)
     
@@ -337,7 +337,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercício #075](Curso%20em%20Video/Desafios/7x/desafio075.py)  
 - [→ Exercício #076](Curso%20em%20Video/Desafios/7x/desafio076.py)
 - [→ Exercício #077](Curso%20em%20Video/Desafios/7x/desafio077.py)
-
+  <br>  
 -
 
 - [→ Exercício #078](Curso%20em%20Video/Desafios/7x/desafio078.py)  
@@ -346,7 +346,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercício #081](Curso%20em%20Video/Desafios/8x/desafio081.py)  
 - [→ Exercício #082](Curso%20em%20Video/Desafios/8x/desafio082.py)  
 - [→ Exercício #083](Curso%20em%20Video/Desafios/8x/desafio083.py) 
-
+  <br>  
 -
 
 - [→ Exercício #084](Curso%20em%20Video/Desafios/8x/desafio084.py)  
@@ -355,7 +355,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercício #087](Curso%20em%20Video/Desafios/8x/desafio087.py)  
 - [→ Exercício #088](Curso%20em%20Video/Desafios/8x/desafio088.py)  
 - [→ Exercício #089](Curso%20em%20Video/Desafios/8x/desafio089.py)
-
+  <br>  
 -
 
 - [→ Exercício #090](Curso%20em%20Video/Desafios/9x/desafio090.py)  
@@ -364,7 +364,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercício #093](Curso%20em%20Video/Desafios/9x/desafio093.py)  
 - [→ Exercício #094](Curso%20em%20Video/Desafios/9x/desafio094.py)  
 - [→ Exercício #095](Curso%20em%20Video/Desafios/9x/desafio095.py)  
-
+  <br>  
 -
 
 - [→ Exercício #096](Curso%20em%20Video/Desafios/9x/desafio096.py)  
@@ -372,7 +372,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercício #098](Curso%20em%20Video/Desafios/9x/desafio098.py)  
 - [→ Exercício #099](Curso%20em%20Video/Desafios/9x/desafio099.py)  
 - [→ Exercício #100](Curso%20em%20Video/Desafios/10x/desafio100.py)  
-
+  <br>  
 -
 
 - [→ Exercício #101](Curso%20em%20Video/Desafios/10x/desafio101.py)  
@@ -381,7 +381,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercício #104](Curso%20em%20Video/Desafios/10x/desafio104.py)  
 - [→ Exercício #105](Curso%20em%20Video/Desafios/10x/desafio105.py)  
 - [→ Exercício #106](Curso%20em%20Video/Desafios/10x/desafio106.py)  
-
+  <br>  
 -
 
 - [→ Exercício #107](Curso%20em%20Video/Desafios/10x/desafio107.py)  
@@ -390,7 +390,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercício #110](Curso%20em%20Video/Desafios/11x/desafio110.py)  
 - [→ Exercício #111](Curso%20em%20Video/Desafios/11x/desafio111.py)  
 - [→ Exercício #112](Curso%20em%20Video/Desafios/11x/desafio112.py)  
-
+  <br>  
 -
 
 - [→ Exercício #113](Curso%20em%20Video/Desafios/11x/desafio113.py)  
@@ -630,7 +630,9 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #112](Curso%20em%20Video/Desafios/11x/desafio112.py)  
 - [→ Exercise #113](Curso%20em%20Video/Desafios/11x/desafio113.py)  
 - [→ Exercise #114](Curso%20em%20Video/Desafios/11x/desafio114.py)  
-- [→ Exercise #115](Curso%20em%20Video/Desafios/11x/desafio115.py)  
+- [→ Exercise #115a](Curso%20em%20Video/Desafios/11x/desafio115a.py)  
+- [→ Exercise #115b](Curso%20em%20Video/Desafios/11x/desafio115b.py)  
+- [→ Exercise #115c](Curso%20em%20Video/Desafios/11x/desafio115c.py)  
 
 
 
@@ -757,9 +759,76 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 <details open>
 <summary>World 3</summary>
 
-    →
-    →
-    →
+-
+
+- [→ Exercise #072](Curso%20em%20Video/Desafios/7x/desafio072.py)  
+- [→ Exercise #073](Curso%20em%20Video/Desafios/7x/desafio073.py)  
+- [→ Exercise #074](Curso%20em%20Video/Desafios/7x/desafio074.py)  
+- [→ Exercise #075](Curso%20em%20Video/Desafios/7x/desafio075.py)  
+- [→ Exercise #076](Curso%20em%20Video/Desafios/7x/desafio076.py)  
+- [→ Exercise #077](Curso%20em%20Video/Desafios/7x/desafio077.py)  
+  <br>  
+-
+
+- [→ Exercise #078](Curso%20em%20Video/Desafios/7x/desafio078.py)  
+- [→ Exercise #079](Curso%20em%20Video/Desafios/7x/desafio079.py)  
+- [→ Exercise #080](Curso%20em%20Video/Desafios/8x/desafio080.py)  
+- [→ Exercise #081](Curso%20em%20Video/Desafios/8x/desafio081.py)  
+- [→ Exercise #082](Curso%20em%20Video/Desafios/8x/desafio082.py)  
+- [→ Exercise #083](Curso%20em%20Video/Desafios/8x/desafio083.py)  
+  <br>  
+-
+
+- [→ Exercise #084](Curso%20em%20Video/Desafios/8x/desafio084.py)  
+- [→ Exercise #085](Curso%20em%20Video/Desafios/8x/desafio085.py)  
+- [→ Exercise #086](Curso%20em%20Video/Desafios/8x/desafio086.py)  
+- [→ Exercise #087](Curso%20em%20Video/Desafios/8x/desafio087.py)  
+- [→ Exercise #088](Curso%20em%20Video/Desafios/8x/desafio088.py)  
+- [→ Exercise #089](Curso%20em%20Video/Desafios/8x/desafio089.py)  
+  <br>  
+-
+
+- [→ Exercise #090](Curso%20em%20Video/Desafios/9x/desafio090.py)  
+- [→ Exercise #091](Curso%20em%20Video/Desafios/9x/desafio091.py)  
+- [→ Exercise #092](Curso%20em%20Video/Desafios/9x/desafio092.py)  
+- [→ Exercise #093](Curso%20em%20Video/Desafios/9x/desafio093.py)  
+- [→ Exercise #094](Curso%20em%20Video/Desafios/9x/desafio094.py)  
+- [→ Exercise #095](Curso%20em%20Video/Desafios/9x/desafio095.py)  
+  <br>  
+-
+
+- [→ Exercise #096](Curso%20em%20Video/Desafios/9x/desafio096.py)  
+- [→ Exercise #097](Curso%20em%20Video/Desafios/9x/desafio097.py)  
+- [→ Exercise #098](Curso%20em%20Video/Desafios/9x/desafio098.py)  
+- [→ Exercise #099](Curso%20em%20Video/Desafios/9x/desafio099.py)  
+- [→ Exercise #100](Curso%20em%20Video/Desafios/10x/desafio100.py)  
+  <br>  
+-
+
+- [→ Exercise #101](Curso%20em%20Video/Desafios/10x/desafio101.py)  
+- [→ Exercise #102](Curso%20em%20Video/Desafios/10x/desafio102.py)  
+- [→ Exercise #103](Curso%20em%20Video/Desafios/10x/desafio103.py)  
+- [→ Exercise #104](Curso%20em%20Video/Desafios/10x/desafio104.py)  
+- [→ Exercise #105](Curso%20em%20Video/Desafios/10x/desafio105.py)  
+- [→ Exercise #106](Curso%20em%20Video/Desafios/10x/desafio106.py)  
+  <br>  
+-
+
+- [→ Exercise #107](Curso%20em%20Video/Desafios/10x/desafio107.py)  
+- [→ Exercise #108](Curso%20em%20Video/Desafios/10x/desafio108.py)  
+- [→ Exercise #109](Curso%20em%20Video/Desafios/10x/desafio109.py)  
+- [→ Exercise #110](Curso%20em%20Video/Desafios/11x/desafio110.py)  
+- [→ Exercise #111](Curso%20em%20Video/Desafios/11x/desafio111.py)  
+- [→ Exercise #112](Curso%20em%20Video/Desafios/11x/desafio112.py)  
+  <br>  
+-
+
+- [→ Exercise #113](Curso%20em%20Video/Desafios/11x/desafio113.py)  
+- [→ Exercise #114](Curso%20em%20Video/Desafios/11x/desafio114.py)  
+- [→ Exercise #115a](Curso%20em%20Video/Desafios/11x/desafio115a.py)  
+- [→ Exercise #115b](Curso%20em%20Video/Desafios/11x/desafio115b.py)  
+- [→ Exercise #115c](Curso%20em%20Video/Desafios/11x/desafio115c.py)  
+
 </details>
 </details>
 
