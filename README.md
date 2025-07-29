@@ -644,22 +644,115 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 <details open>
  <summary>World 1</summary>
      
-    → Aula #04 - Primeiros comandos
-    → Aula #06 - Tipos Primitivos e Saida de dados
-    → Aula #07 - Operadores Aritméticos
-    → Aula #08 - Módulos
-    → Aula #09 - Manipulação de Texto
-    → Aula #10 - Condições (Parte 1)
-    → Aula #11 - Cores no terminal
+- [→ Lesson #04 - First commands](Curso%20em%20Video/Aulas/04%20Primeiros%20comandos.py)  
+- [→ Practice #04a](Curso%20em%20Video/Aulas%20Praticas/aula04a.py)  
+- [→ Exercise #001 - Responding to the User](Curso%20em%20Video/Desafios/0x/desafio001.py)  
+- [→ Exercise #002 - Date of Birth](Curso%20em%20Video/Desafios/0x/desafio002.py)  
+<br>
+- [→ Lesson #06 - Primitive Types and Data Output](Curso%20em%20Video/Aulas/06%20Tipos%20primitivos%20e%20saida%20de%20dados.py)  
+- [→ Practice #06a](Curso%20em%20Video/Aulas%20Praticas/aula06a.py)  
+- [→ Exercise #003 - Adding two numbers](Curso%20em%20Video/Desafios/0x/desafio003.py)  
+- [→ Exercise #004 - Dissecting a Variable](Curso%20em%20Video/Desafios/0x/desafio004.py)  
+<br>
+- [→ Lesson #07 - Arithmetic Operators](Curso%20em%20Video/Aulas/07%20Operadores%20Aritmeticos.py)  
+- [→ Practice #07a](Curso%20em%20Video/Aulas%20Praticas/aula07a.py)  
+- [→ Exercise #005 - Predecessor and Successor](Curso%20em%20Video/Desafios/0x/desafio005.py)  
+- [→ Exercise #006 - Double, Triple, Square Root](Curso%20em%20Video/Desafios/0x/desafio006.py)  
+- [→ Exercise #007 - Arithmetic Mean](Curso%20em%20Video/Desafios/0x/desafio007.py)  
+- [→ Exercise #008 - Unit Converter](Curso%20em%20Video/Desafios/0x/desafio008.py)  
+- [→ Exercise #009 - Multiplication Table](Curso%20em%20Video/Desafios/0x/desafio009.py)  
+- [→ Exercise #010 - Currency Converter](Curso%20em%20Video/Desafios/1x/desafio010.py)  
+- [→ Exercise #011 - Painting a Wall](Curso%20em%20Video/Desafios/1x/desafio011.py)  
+- [→ Exercise #012 - Calculating Discounts](Curso%20em%20Video/Desafios/1x/desafio012.py)  
+- [→ Exercise #013 - Salary Adjustment](Curso%20em%20Video/Desafios/1x/desafio013.py)  
+- [→ Exercise #014 - Temperature Converter](Curso%20em%20Video/Desafios/1x/desafio014.py)  
+- [→ Exercise #015 - Car Rental](Curso%20em%20Video/Desafios/1x/desafio015.py)  
+<br>
+- [→ Lesson #08 - Modules](Curso%20em%20Video/Aulas/08%20Modulos.py)  
+- [→ Practice #08a](Curso%20em%20Video/Aulas%20Praticas/aula08a.py)  
+- [→ Practice #08b](Curso%20em%20Video/Aulas%20Praticas/aula08b.py)  
+- [→ Exercise #016 - Breaking a Number](Curso%20em%20Video/Desafios/1x/desafio016.py)  
+- [→ Exercise #017 - Catheti and Hypotenuse](Curso%20em%20Video/Desafios/1x/desafio017.py)  
+- [→ Exercise #018 - Sine, Cosine, and Tangent](Curso%20em%20Video/Desafios/1x/desafio018.py)  
+- [→ Exercise #019 - Randomly Selecting an Item](Curso%20em%20Video/Desafios/1x/desafio019.py)  
+- [→ Exercise #020 - Randomly Ordering a List](Curso%20em%20Video/Desafios/2x/desafio020.py)  
+- [→ Exercise #021 - Playing an MP3](Curso%20em%20Video/Desafios/2x/desafio021.py)  
+<br>
+- [→ Lesson #09 - Text Manipulation](Curso%20em%20Video/Aulas/09%20Manipular%20Texto(string).py)  
+- [→ Practice #09a](Curso%20em%20Video/Aulas%20Praticas/aula09a.py)  
+- [→ Exercise #022 - Text Analyzer](Curso%20em%20Video/Desafios/2x/desafio022.py)  
+- [→ Exercise #023 - Separating Number Digits](Curso%20em%20Video/Desafios/2x/desafio023.py)  
+- [→ Exercise #024 - Checking the First Letters of a Text](Curso%20em%20Video/Desafios/2x/desafio024.py)  
+- [→ Exercise #025 - Searching a String Inside Another](Curso%20em%20Video/Desafios/2x/desafio025.py)  
+- [→ Exercise #026 - First and Last Occurrence of a String](Curso%20em%20Video/Desafios/2x/desafio026.py)  
+- [→ Exercise #027 - First and Last Name of a Person](Curso%20em%20Video/Desafios/2x/desafio027.py)  
+<br>
+- [→ Lesson #10 - Conditions (Part 1)](Curso%20em%20Video/Aulas/10%20Condiçoes%20pt1.py)  
+- [→ Practice #10a](Curso%20em%20Video/Aulas%20Praticas/aula10a.py)  
+- [→ Exercise #028 - Guessing Game v1.0](Curso%20em%20Video/Desafios/2x/desafio028.py)  
+- [→ Exercise #029 - Electronic Radar](Curso%20em%20Video/Desafios/2x/desafio029.py)  
+- [→ Exercise #030 - Even or Odd?](Curso%20em%20Video/Desafios/3x/desafio030.py)  
+- [→ Exercise #031 - Travel Cost](Curso%20em%20Video/Desafios/3x/desafio031.py)  
+- [→ Exercise #032 - Leap Year](Curso%20em%20Video/Desafios/3x/desafio032.py)  
+- [→ Exercise #033 - Biggest and Smallest Values](Curso%20em%20Video/Desafios/3x/desafio033.py)  
+- [→ Exercise #034 - Multiple Increases](Curso%20em%20Video/Desafios/3x/desafio034.py)  
+- [→ Exercise #035 - Analyzing Triangle v1.0](Curso%20em%20Video/Desafios/3x/desafio035.py)  
+<br>
+- [→ Lesson #11 - Terminal Colors](Curso%20em%20Video/Aulas/11%20Cores%20no%20terminal.py)  
+- [→ Practice #11a](Curso%20em%20Video/Aulas%20Praticas/aula11a.py)  
     
 </details>
 <details open>
 <summary>world 2</summary>
 
-    → Aula #12 - Condiçoes
-    →
-    →
-    →
+- [→ Lesson #12 - Conditions](Curso%20em%20Video/Aulas/12%20condiçoes%20aninhadas.py)  
+- [→ Practice #12a](Curso%20em%20Video/Aulas%20Praticas/aula12a.py)  
+- [→ Exercise #036 - Approving a Loan](Curso%20em%20Video/Desafios/3x/desafio036.py)  
+- [→ Exercise #037 - Number Base Converter](Curso%20em%20Video/Desafios/3x/desafio037.py)  
+- [→ Exercise #038 - Comparing Numbers](Curso%20em%20Video/Desafios/3x/desafio038.py)  
+- [→ Exercise #039 - Military Enlistment](Curso%20em%20Video/Desafios/3x/desafio039.py)  
+- [→ Exercise #040 - The Classic Average](Curso%20em%20Video/Desafios/4x/desafio040.py)  
+- [→ Exercise #041 - Classifying Athletes](Curso%20em%20Video/Desafios/4x/desafio041.py)  
+- [→ Exercise #042 - Analyzing Triangles v2.0](Curso%20em%20Video/Desafios/4x/desafio042.py)  
+- [→ Exercise #043 - Body Mass Index](Curso%20em%20Video/Desafios/4x/desafio043.py)  
+- [→ Exercise #044 - Payment Manager](Curso%20em%20Video/Desafios/4x/desafio044.py)  
+- [→ Exercise #045 - GAME: Rock, Paper, Scissors](Curso%20em%20Video/Desafios/4x/desafio045.py)  
+
+- [→ Lesson #13 - "for" Loop Structures](Curso%20em%20Video/Aulas/13%20Estruturas%20de%20repetição%20For.py)  
+- [→ Practice #13a](Curso%20em%20Video/Aulas%20Praticas/aula13a.py)  
+- [→ Exercise #046 - Countdown](Curso%20em%20Video/Desafios/4x/desafio046.py)  
+- [→ Exercise #047 - Counting Even Numbers](Curso%20em%20Video/Desafios/4x/desafio047.py)  
+- [→ Exercise #048 - Sum of Odd Multiples of Three](Curso%20em%20Video/Desafios/4x/desafio048.py)  
+- [→ Exercise #049 - Multiplication Table v2.0](Curso%20em%20Video/Desafios/4x/desafio049.py)  
+- [→ Exercise #050 - Sum of Even Numbers](Curso%20em%20Video/Desafios/5x/desafio050.py)  
+- [→ Exercise #051 - Arithmetic Progression](Curso%20em%20Video/Desafios/5x/desafio051.py)  
+- [→ Exercise #052 - Prime Numbers](Curso%20em%20Video/Desafios/5x/desafio052.py)  
+- [→ Exercise #053 - Palindrome Detector](Curso%20em%20Video/Desafios/5x/desafio053.py)  
+- [→ Exercise #054 - Age Group](Curso%20em%20Video/Desafios/5x/desafio054.py)  
+- [→ Exercise #055 - Biggest and Smallest in the Sequence](Curso%20em%20Video/Desafios/5x/desafio055.py)  
+- [→ Exercise #056 - Complete Analyzer](Curso%20em%20Video/Desafios/5x/desafio056.py)  
+
+- [→ Lesson #14 - "while" Loop Structure](Curso%20em%20Video/Aulas/14%20Estrutura%20de%20repetição%20while.py)  
+- [→ Practice #14a](Curso%20em%20Video/Aulas%20Praticas/aula14a.py)  
+- [→ Exercise #057 - Data Validation](Curso%20em%20Video/Desafios/5x/desafio057.py)  
+- [→ Exercise #058 - Guessing Game v2.0](Curso%20em%20Video/Desafios/5x/desafio058.py)  
+- [→ Exercise #059 - Creating a Options Menu](Curso%20em%20Video/Desafios/5x/desafio059.py)  
+- [→ Exercise #060 - Factorial Calculation](Curso%20em%20Video/Desafios/6x/desafio060.py)  
+- [→ Exercise #061 - Arithmetic Progression v2.0](Curso%20em%20Video/Desafios/6x/desafio061.py)  
+- [→ Exercise #062 - Super Arithmetic Progression v3.0](Curso%20em%20Video/Desafios/6x/desafio062.py)  
+- [→ Exercise #063 - Fibonacci Sequence v1.0](Curso%20em%20Video/Desafios/6x/desafio063.py)  
+- [→ Exercise #064 - Handling Multiple Values v1.0](Curso%20em%20Video/Desafios/6x/desafio064.py)  
+- [→ Exercise #065 - Biggest and Smallest Values](Curso%20em%20Video/Desafios/6x/desafio065.py)  
+
+- [→ Lesson #15 - Interrupting "while" Loops](Curso%20em%20Video/Aulas/15%20Interrompendo%20repetições%20while.py)  
+- [→ Practice #15a](Curso%20em%20Video/Aulas%20Praticas/aula15a.py)  
+- [→ Exercise #066 - Multiple Numbers with Flag](Curso%20em%20Video/Desafios/6x/desafio066.py)  
+- [→ Exercise #067 - Multiplication Table v3.0](Curso%20em%20Video/Desafios/6x/desafio067.py)  
+- [→ Exercise #068 - Even or Odd Game](Curso%20em%20Video/Desafios/6x/desafio068.py)  
+- [→ Exercise #069 - Group Data Analysis](Curso%20em%20Video/Desafios/6x/desafio069.py)  
+- [→ Exercise #070 - Product Statistics](Curso%20em%20Video/Desafios/7x/desafio070.py)  
+- [→ Exercise #071 - ATM Simulator](Curso%20em%20Video/Desafios/7x/desafio071.py)  
+
 </details>
 <details open>
 <summary>World 3</summary>
