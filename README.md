@@ -648,12 +648,12 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Practice #04a](Curso%20em%20Video/Aulas%20Praticas/aula04a.py)  
 - [→ Exercise #001 - Responding to the User](Curso%20em%20Video/Desafios/0x/desafio001.py)  
 - [→ Exercise #002 - Date of Birth](Curso%20em%20Video/Desafios/0x/desafio002.py)  
-<br>
+<br>  
 - [→ Lesson #06 - Primitive Types and Data Output](Curso%20em%20Video/Aulas/06%20Tipos%20primitivos%20e%20saida%20de%20dados.py)  
 - [→ Practice #06a](Curso%20em%20Video/Aulas%20Praticas/aula06a.py)  
 - [→ Exercise #003 - Adding two numbers](Curso%20em%20Video/Desafios/0x/desafio003.py)  
 - [→ Exercise #004 - Dissecting a Variable](Curso%20em%20Video/Desafios/0x/desafio004.py)  
-<br>
+<br>  
 - [→ Lesson #07 - Arithmetic Operators](Curso%20em%20Video/Aulas/07%20Operadores%20Aritmeticos.py)  
 - [→ Practice #07a](Curso%20em%20Video/Aulas%20Praticas/aula07a.py)  
 - [→ Exercise #005 - Predecessor and Successor](Curso%20em%20Video/Desafios/0x/desafio005.py)  
@@ -667,7 +667,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #013 - Salary Adjustment](Curso%20em%20Video/Desafios/1x/desafio013.py)  
 - [→ Exercise #014 - Temperature Converter](Curso%20em%20Video/Desafios/1x/desafio014.py)  
 - [→ Exercise #015 - Car Rental](Curso%20em%20Video/Desafios/1x/desafio015.py)  
-<br>
+<br>  
 - [→ Lesson #08 - Modules](Curso%20em%20Video/Aulas/08%20Modulos.py)  
 - [→ Practice #08a](Curso%20em%20Video/Aulas%20Praticas/aula08a.py)  
 - [→ Practice #08b](Curso%20em%20Video/Aulas%20Praticas/aula08b.py)  
