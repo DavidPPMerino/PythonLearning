@@ -12,7 +12,7 @@ Este repositório foi criado para auxiliar-me durante a aprendizagem de Python e
 ## Glossário
 
 - Curso em Video
-   - Aulas / Anotações
+   - [Aulas / Anotações](Curso em Video/Aulas)
    - Pratica das aulas
    - Exercicios
 
