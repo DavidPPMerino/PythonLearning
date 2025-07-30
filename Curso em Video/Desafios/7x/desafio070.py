@@ -8,3 +8,35 @@
 """
 
 " V1.0 "
+print('-=' * 20 + '-')
+print(f'{'LOJA SUPER BARATÃO':^41}')
+print('-=' * 20 + '-')
+amount_sum = 0
+more1000_items = 0
+cheap_name = ' '
+cheap_price = 0
+count = 0
+while True:
+    name = input('Nome do produto: ').strip()
+    price = float(input('Preço: R$ '))
+    count += 1
+    amount_sum += price
+    if price > 1000:
+        more1000_items += 1
+    if count == 1:
+        cheap_name = name
+        cheap_price = price
+    if price < cheap_price:
+        cheap_name = name
+        cheap_price = price
+
+    while True:
+        check = str(input('Deseja continuar? [S/N] ')).strip().upper()
+        if check in ('N', 'S'):
+            break
+    if check == 'N':
+        print('FIM DO PROGRAMA'.center(40, '='))
+        break
+print(f'Você comprou {count} artigos e o total é de R${amount_sum}')
+print(f'Comprou {more1000_items} produtos que custam mais que R$1000')
+print(f'O produto mais barato foi {cheap_name} que custa R${cheap_price}')
