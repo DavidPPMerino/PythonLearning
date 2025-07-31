@@ -328,6 +328,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 </details>
 <details open>
 <summary>Mundo 3</summary>
+<!--
 
 -
 
@@ -397,7 +398,10 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercício #114](Curso%20em%20Video/Desafios/11x/desafio114.py)  
 - [→ Exercício #115a](Curso%20em%20Video/Desafios/11x/desafio115a.py)  
 - [→ Exercício #115b](Curso%20em%20Video/Desafios/11x/desafio115b.py)  
-- [→ Exercício #115c](Curso%20em%20Video/Desafios/11x/desafio115c.py)  
+- [→ Exercício #115c](Curso%20em%20Video/Desafios/11x/desafio115c.py)
+
+
+-->
 </details>
 </details>
 
