@@ -816,7 +816,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #105](Curso%20em%20Video/Desafios/10x/desafio105.py)  
 - [→ Exercise #106](Curso%20em%20Video/Desafios/10x/desafio106.py)  
   <br>  
--
+- 123
 
 - [→ Exercise #107](Curso%20em%20Video/Desafios/10x/desafio107.py)  
 - [→ Exercise #108](Curso%20em%20Video/Desafios/10x/desafio108.py)  
