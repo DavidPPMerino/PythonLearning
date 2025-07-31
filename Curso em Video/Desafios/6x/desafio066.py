@@ -9,12 +9,22 @@
 """
 
 " V1.0 "
-soma = 0
-count = 0
+# soma = 0
+# count = 0
+# while True:
+#     n = int(input('Escreva um valor (999 para parar): '))
+#     if n == 999:
+#         break
+#     soma += n
+#     count += 1
+# print(f'A soma dos {count} valores foi de {soma}!')
+
+""" Resolução Curso em Video """
+soma = cont = 0
 while True:
-    n = int(input('Escreva um valor (999 para parar): '))
-    if n == 999:
+    num = int(input('Digite um valor (999 para parar): '))
+    if num == 999:
         break
-    soma += n
     count += 1
-print(f'A soma dos {count} valores foi de {soma}!')
+    soma += num
+print(f'A soma dos {count} valores foi {soma}!')
