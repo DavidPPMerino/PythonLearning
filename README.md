@@ -326,9 +326,9 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercicio #071 - Simulador de Caixa Eletrônico](Curso%20em%20Video/Desafios/7x/desafio071.py)  
 
 </details>
-<details open>
+<!--<details open>
 <summary>Mundo 3</summary>
-<!--
+
 
 -
 
@@ -401,8 +401,8 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercício #115c](Curso%20em%20Video/Desafios/11x/desafio115c.py)
 
 
--->
-</details>
+
+</details>-->
 </details>
 
 ***
@@ -709,7 +709,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
     
 </details>
 <details open>
-<summary>world 2</summary>
+<summary>World 2</summary>
 
 - [→ Lesson #12 - Conditions](Curso%20em%20Video/Aulas/12%20condiçoes%20aninhadas.py)  
 - [→ Practice #12a](Curso%20em%20Video/Aulas%20Praticas/aula12a.py)  
@@ -760,7 +760,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #071 - ATM Simulator](Curso%20em%20Video/Desafios/7x/desafio071.py)  
 
 </details>
-<details open>
+<!--<details open>
 <summary>World 3</summary>
 
 -
@@ -833,7 +833,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #115b](Curso%20em%20Video/Desafios/11x/desafio115b.py)  
 - [→ Exercise #115c](Curso%20em%20Video/Desafios/11x/desafio115c.py)  
 
-</details>
+</details>-->
 </details>
 
 ***
