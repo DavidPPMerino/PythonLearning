@@ -2,7 +2,7 @@
 <p align="center">
 <img width="580" height="164" alt="python-logo" src="https://github.com/user-attachments/assets/5971a450-9da8-49fe-be3d-8ad72fb4c33a" />
 </p>
-<a href="https://github.com/DavidPPMerino/PythonLearning#pt"><img width="64" height="64" alt="Portuguese" src="https://github.com/user-attachments/assets/fe1069b8-5eda-4d57-93fc-db6c2635ac25" /></a>  <a href="https://github.com/DavidPPMerino/PythonLearning#en"><img width="64" height="64" alt="English" src="https://github.com/user-attachments/assets/879f3cc8-bbe3-490d-88be-ab687aa718b1" /></a>
+<a href="#pt"><img width="64" height="64" alt="Portuguese" src="https://github.com/user-attachments/assets/fe1069b8-5eda-4d57-93fc-db6c2635ac25" /></a>  <a href="#en"><img width="64" height="64" alt="English" src="https://github.com/user-attachments/assets/879f3cc8-bbe3-490d-88be-ab687aa718b1" /></a>
 
 ---
 
@@ -62,7 +62,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Aula #09 - Manipulação de Texto](Curso%20em%20Video/Aulas/09%20Manipular%20Texto(string).py)
 - [→ Aula #10 - Condições (Parte 1)](Curso%20em%20Video/Aulas/10%20Condiçoes%20pt1.py)
 - [→ Aula #11 - Cores no terminal](Curso%20em%20Video/Aulas/11%20Cores%20no%20terminal.py)
-- [→ Aula #12 - Condiçoes](Curso%20em%20Video/Aulas/12%20condiçoes%20aninhadas.py)
+- [→ Aula #12 - Condições](Curso%20em%20Video/Aulas/12%20condiçoes%20aninhadas.py)
 - [→ Aula #13 - Estruturas de Repetição "for"](Curso%20em%20Video/Aulas/13%20Estruturas%20de%20repetição%20For.py)
 - [→ Aula #14 - Estruturas de Repetição "while"](Curso%20em%20Video/Aulas/14%20Estrutura%20de%20repetição%20while.py)
 - [→ Aula #15 - Interrompendo Repetições "while"](Curso%20em%20Video/Aulas/15%20Interrompendo%20repetições%20while.py)
@@ -277,7 +277,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 <details open>
 <summary>Mundo 2</summary>
 
-- [→ Aula #12 - Condiçoes](Curso%20em%20Video/Aulas/12%20condiçoes%20aninhadas.py)
+- [→ Aula #12 - Condições](Curso%20em%20Video/Aulas/12%20condiçoes%20aninhadas.py)
 - [→ Prática #12a](Curso%20em%20Video/Aulas%20Praticas/aula12a.py)  
 - [→ Exercicio #036 - Aprovando Empréstimo](Curso%20em%20Video/Desafios/3x/desafio036.py)  
 - [→ Exercicio #037 - Conversor de Bases Numéricas](Curso%20em%20Video/Desafios/3x/desafio037.py)  
@@ -431,7 +431,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 <p align="center">
 <img width="580" height="164" alt="python-logo" src="https://github.com/user-attachments/assets/5971a450-9da8-49fe-be3d-8ad72fb4c33a" />
 </p>
-<a href="https://github.com/DavidPPMerino/PythonLearning#pt"><img width="64" height="64" alt="Portuguese" src="https://github.com/user-attachments/assets/fe1069b8-5eda-4d57-93fc-db6c2635ac25" /></a>  <a href="https://github.com/DavidPPMerino/PythonLearning#en"><img width="64" height="64" alt="English" src="https://github.com/user-attachments/assets/879f3cc8-bbe3-490d-88be-ab687aa718b1" /></a>
+<a href="#pt"><img width="64" height="64" alt="Portuguese" src="https://github.com/user-attachments/assets/fe1069b8-5eda-4d57-93fc-db6c2635ac25" /></a>  <a href="#en"><img width="64" height="64" alt="English" src="https://github.com/user-attachments/assets/879f3cc8-bbe3-490d-88be-ab687aa718b1" /></a>
 
 ---
 
