@@ -5,4 +5,3 @@ b) Os 'últimos 4' colocados da tabela.
 c) Uma lista com os times em 'ordem alfabética'.
 d) Em que 'posição' na tabela está o time da 'Chapecoense'
 """
-
