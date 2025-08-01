@@ -1,1 +1,25 @@
-.vscode/settings.json
+# Ambiente virtual
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Arquivos de configuração local e sensíveis
+.env
+config.json
+
+# Build e distribuição
+build/
+dist/
+*.egg-info/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
