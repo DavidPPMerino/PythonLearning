@@ -10,5 +10,16 @@ n2 = int(input("Escreva outro número: "))
 n3 = int(input("Escreva mais um número: "))
 n4 = int(input("Escreva um ultimo número: "))
 t = n1, n2, n3, n4
-print(f"O valor 9 apareceu {"nenhuma" if t.count(9) < 1 else t.count(9)} {"vez" if t.count(9) < 2 else "vezes"}")
-print(f" O valor 3 {"não apareceu" if (t.find(3)+1) < 1 else "apareceu"} na {}")
+print(f"Os valores digitados foram: {t}")
+print(f"O valor 9 {"apareceu" if 9 in t else "não apareceu"} {"nenhuma" if t.count(9) < 1 else t.count(9)} {"vez." if t.count(9) < 2 else "vezes."}")
+print(f" O valor 3 {"não apareceu" if 3 not in t else "apareceu na"} {t.index(3)+1 if 3 in t else ""}{"ª posição." if 3 in t else "em nenhuma posição."}")
+print('Os números pares escritos foram: ', end='')
+for i, num in enumerate(t):
+    if num != 0:
+        if num % 2 == 0:
+            if i == 0:
+                print(num, end='')
+            else:
+                print(", ",num, end='')
+    else:
+        print("nenhum número par encontrado.")
