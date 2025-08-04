@@ -206,7 +206,9 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercício #115a](Curso%20em%20Video/Desafios/11x/desafio115a.py)  
 - [→ Exercício #115b](Curso%20em%20Video/Desafios/11x/desafio115b.py)  
 - [→ Exercício #115c](Curso%20em%20Video/Desafios/11x/desafio115c.py)-->  
-    
+
+## [Voltar ao início](#%C3%ADndice-de-conte%C3%BAdos-curso-em-video)
+
 </details>
 </details>
 
@@ -403,7 +405,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercício #115b](Curso%20em%20Video/Desafios/11x/desafio115b.py)  
 - [→ Exercício #115c](Curso%20em%20Video/Desafios/11x/desafio115c.py)-->
 
-
+## [Voltar ao início](#%C3%ADndice-de-conte%C3%BAdos-curso-em-video)
 
 </details>
 </details>
@@ -641,7 +643,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #115b](Curso%20em%20Video/Desafios/11x/desafio115b.py)  
 - [→ Exercise #115c](Curso%20em%20Video/Desafios/11x/desafio115c.py)  
 
-
+## [Back to Top](#curso-em-video-content-index)
 
 </details>
 </details>
@@ -835,6 +837,8 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #115a](Curso%20em%20Video/Desafios/11x/desafio115a.py)  
 - [→ Exercise #115b](Curso%20em%20Video/Desafios/11x/desafio115b.py)  
 - [→ Exercise #115c](Curso%20em%20Video/Desafios/11x/desafio115c.py)  -->
+
+## [Back to Top](#curso-em-video-content-index)
 
 </details>
 </details>
