@@ -1,12 +1,11 @@
-## PT
+# <ins>Bem-Vindo ao Python Learning</ins>
+
 <p align="center">
 <img width="580" height="164" alt="python-logo" src="https://github.com/user-attachments/assets/5971a450-9da8-49fe-be3d-8ad72fb4c33a" />
 </p>
-<a href="#pt"><img width="64" height="64" alt="Portuguese" src="https://github.com/user-attachments/assets/fe1069b8-5eda-4d57-93fc-db6c2635ac25" /></a>  <a href="#en"><img width="64" height="64" alt="English" src="https://github.com/user-attachments/assets/879f3cc8-bbe3-490d-88be-ab687aa718b1" /></a>
+<a href="#bem-vindo-ao-python-learning"><img width="64" height="64" alt="Portuguese" src="https://github.com/user-attachments/assets/fe1069b8-5eda-4d57-93fc-db6c2635ac25" /></a>  <a href="#welcome-to-python-learning"><img width="64" height="64" alt="English" src="https://github.com/user-attachments/assets/879f3cc8-bbe3-490d-88be-ab687aa718b1" /></a>
 
 ---
-
-# <ins>Bem-Vindo ao Python Learning</ins>
 
 Este repositório foi criado para auxiliar-me durante a aprendizagem de Python e possivelmente ajudar outra pessoas que estejam a aprender tambem.
 
@@ -66,6 +65,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Aula #13 - Estruturas de Repetição "for"](Curso%20em%20Video/Aulas/13%20Estruturas%20de%20repetição%20For.py)
 - [→ Aula #14 - Estruturas de Repetição "while"](Curso%20em%20Video/Aulas/14%20Estrutura%20de%20repetição%20while.py)
 - [→ Aula #15 - Interrompendo Repetições "while"](Curso%20em%20Video/Aulas/15%20Interrompendo%20repetições%20while.py)
+- [→ Aula #16 - Tuplas](Curso%20em%20Video/Aulas/15-Tuplas.py)
   
 </details>
 <details open>
@@ -83,6 +83,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Prática #13a](Curso%20em%20Video/Aulas%20Praticas/aula13a.py)  
 - [→ Prática #14a](Curso%20em%20Video/Aulas%20Praticas/aula14a.py)  
 - [→ Prática #15a](Curso%20em%20Video/Aulas%20Praticas/aula15a.py)  
+- [→ Prática #16a](Curso%20em%20Video/Aulas%20Praticas/aula16a.py) 
 
 </details>
 <details open>
@@ -159,13 +160,13 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercicio #069 - Análise de dados do grupo](Curso%20em%20Video/Desafios/6x/desafio069.py)  
 - [→ Exercicio #070 - Estatísticas em produtos](Curso%20em%20Video/Desafios/7x/desafio070.py)  
 - [→ Exercicio #071 - Simulador de Caixa Eletrônico](Curso%20em%20Video/Desafios/7x/desafio071.py)  
-- [→ Exercício #072](Curso%20em%20Video/Desafios/7x/desafio072.py)  
-- [→ Exercício #073](Curso%20em%20Video/Desafios/7x/desafio073.py)  
-- [→ Exercício #074](Curso%20em%20Video/Desafios/7x/desafio074.py)  
-- [→ Exercício #075](Curso%20em%20Video/Desafios/7x/desafio075.py)  
-- [→ Exercício #076](Curso%20em%20Video/Desafios/7x/desafio076.py)  
-- [→ Exercício #077](Curso%20em%20Video/Desafios/7x/desafio077.py)  
-- [→ Exercício #078](Curso%20em%20Video/Desafios/7x/desafio078.py)  
+- [→ Exercício #072 - Número por Extenso](Curso%20em%20Video/Desafios/7x/desafio072.py)  
+- [→ Exercício #073 - Tuplas com Times de Futebol](Curso%20em%20Video/Desafios/7x/desafio073.py)  
+- [→ Exercício #074 - Maior e menos valores em Tupla](Curso%20em%20Video/Desafios/7x/desafio074.py)  
+- [→ Exercício #075 - Análise de dados em uma Tupla](Curso%20em%20Video/Desafios/7x/desafio075.py)  
+- [→ Exercício #076 - Lista de Preços com Tupla](Curso%20em%20Video/Desafios/7x/desafio076.py)  
+- [→ Exercício #077 - Contando vogais em Tupla](Curso%20em%20Video/Desafios/7x/desafio077.py)  
+<!--- [→ Exercício #078](Curso%20em%20Video/Desafios/7x/desafio078.py)  
 - [→ Exercício #079](Curso%20em%20Video/Desafios/7x/desafio079.py)  
 - [→ Exercício #080](Curso%20em%20Video/Desafios/8x/desafio080.py)  
 - [→ Exercício #081](Curso%20em%20Video/Desafios/8x/desafio081.py)  
@@ -204,7 +205,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercício #114](Curso%20em%20Video/Desafios/11x/desafio114.py)  
 - [→ Exercício #115a](Curso%20em%20Video/Desafios/11x/desafio115a.py)  
 - [→ Exercício #115b](Curso%20em%20Video/Desafios/11x/desafio115b.py)  
-- [→ Exercício #115c](Curso%20em%20Video/Desafios/11x/desafio115c.py)  
+- [→ Exercício #115c](Curso%20em%20Video/Desafios/11x/desafio115c.py)-->  
     
 </details>
 </details>
@@ -213,9 +214,10 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 
 <details>
      <summary> Organizado por Mundos</summary>
+
 <details open>
  <summary>Mundo 1</summary>
-     
+
 - [→ Aula #04 - Primeiros comandos](Curso%20em%20Video/Aulas/04%20Primeiros%20comandos.py)
 - [→ Prática #04a](Curso%20em%20Video/Aulas%20Praticas/aula04a.py)  
 - [→ Exercicio #001 - Respondendo ao Usuário](Curso%20em%20Video/Desafios/0x/desafio001.py)  
@@ -272,8 +274,8 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
   <br>  
 - [→ Aula #11 - Cores no terminal](Curso%20em%20Video/Aulas/11%20Cores%20no%20terminal.py)
 - [→ Prática #11a](Curso%20em%20Video/Aulas%20Praticas/aula11a.py)
-    
 </details>
+
 <details open>
 <summary>Mundo 2</summary>
 
@@ -326,21 +328,22 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercicio #071 - Simulador de Caixa Eletrônico](Curso%20em%20Video/Desafios/7x/desafio071.py)  
 
 </details>
-<!--<details open>
+
+<details open>
 <summary>Mundo 3</summary>
 
 
--
-
-- [→ Exercício #072](Curso%20em%20Video/Desafios/7x/desafio072.py)  
-- [→ Exercício #073](Curso%20em%20Video/Desafios/7x/desafio073.py)  
-- [→ Exercício #074](Curso%20em%20Video/Desafios/7x/desafio074.py)  
-- [→ Exercício #075](Curso%20em%20Video/Desafios/7x/desafio075.py)  
-- [→ Exercício #076](Curso%20em%20Video/Desafios/7x/desafio076.py)
-- [→ Exercício #077](Curso%20em%20Video/Desafios/7x/desafio077.py)
+- [→ Aula #16 - Tuplas](Curso%20em%20Video/Aulas/15-Tuplas.py)
+- [→ Prática #16a](Curso%20em%20Video/Aulas%20Praticas/aula16a.py)
+- [→ Exercício #072 - Número por Extenso](Curso%20em%20Video/Desafios/7x/desafio072.py)  
+- [→ Exercício #073 - Tuplas com Times de Futebol](Curso%20em%20Video/Desafios/7x/desafio073.py)  
+- [→ Exercício #074 - Maior e menos valores em Tupla](Curso%20em%20Video/Desafios/7x/desafio074.py)  
+- [→ Exercício #075 - Análise de dados em uma Tupla](Curso%20em%20Video/Desafios/7x/desafio075.py)  
+- [→ Exercício #076 - Lista de Preços com Tupla](Curso%20em%20Video/Desafios/7x/desafio076.py)  
+- [→ Exercício #077 - Contando vogais em Tupla](Curso%20em%20Video/Desafios/7x/desafio077.py)  
   <br>  
+<!---
 -
-
 - [→ Exercício #078](Curso%20em%20Video/Desafios/7x/desafio078.py)  
 - [→ Exercício #079](Curso%20em%20Video/Desafios/7x/desafio079.py)  
 - [→ Exercício #080](Curso%20em%20Video/Desafios/8x/desafio080.py)  
@@ -349,7 +352,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercício #083](Curso%20em%20Video/Desafios/8x/desafio083.py) 
   <br>  
 -
-
+-
 - [→ Exercício #084](Curso%20em%20Video/Desafios/8x/desafio084.py)  
 - [→ Exercício #085](Curso%20em%20Video/Desafios/8x/desafio085.py)  
 - [→ Exercício #086](Curso%20em%20Video/Desafios/8x/desafio086.py)  
@@ -358,7 +361,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercício #089](Curso%20em%20Video/Desafios/8x/desafio089.py)
   <br>  
 -
-
+-
 - [→ Exercício #090](Curso%20em%20Video/Desafios/9x/desafio090.py)  
 - [→ Exercício #091](Curso%20em%20Video/Desafios/9x/desafio091.py)  
 - [→ Exercício #092](Curso%20em%20Video/Desafios/9x/desafio092.py)  
@@ -367,7 +370,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercício #095](Curso%20em%20Video/Desafios/9x/desafio095.py)  
   <br>  
 -
-
+-
 - [→ Exercício #096](Curso%20em%20Video/Desafios/9x/desafio096.py)  
 - [→ Exercício #097](Curso%20em%20Video/Desafios/9x/desafio097.py)  
 - [→ Exercício #098](Curso%20em%20Video/Desafios/9x/desafio098.py)  
@@ -375,7 +378,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercício #100](Curso%20em%20Video/Desafios/10x/desafio100.py)  
   <br>  
 -
-
+-
 - [→ Exercício #101](Curso%20em%20Video/Desafios/10x/desafio101.py)  
 - [→ Exercício #102](Curso%20em%20Video/Desafios/10x/desafio102.py)  
 - [→ Exercício #103](Curso%20em%20Video/Desafios/10x/desafio103.py)  
@@ -384,7 +387,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercício #106](Curso%20em%20Video/Desafios/10x/desafio106.py)  
   <br>  
 -
-
+-
 - [→ Exercício #107](Curso%20em%20Video/Desafios/10x/desafio107.py)  
 - [→ Exercício #108](Curso%20em%20Video/Desafios/10x/desafio108.py)  
 - [→ Exercício #109](Curso%20em%20Video/Desafios/10x/desafio109.py)  
@@ -393,16 +396,16 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 - [→ Exercício #112](Curso%20em%20Video/Desafios/11x/desafio112.py)  
   <br>  
 -
-
+-
 - [→ Exercício #113](Curso%20em%20Video/Desafios/11x/desafio113.py)  
 - [→ Exercício #114](Curso%20em%20Video/Desafios/11x/desafio114.py)  
 - [→ Exercício #115a](Curso%20em%20Video/Desafios/11x/desafio115a.py)  
 - [→ Exercício #115b](Curso%20em%20Video/Desafios/11x/desafio115b.py)  
-- [→ Exercício #115c](Curso%20em%20Video/Desafios/11x/desafio115c.py)
+- [→ Exercício #115c](Curso%20em%20Video/Desafios/11x/desafio115c.py)-->
 
 
 
-</details>-->
+</details>
 </details>
 
 ***
@@ -426,17 +429,15 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 <br>
 <br>
 
-## EN
+# <ins>Welcome to Python Learning</ins>
 
 <p align="center">
 <img width="580" height="164" alt="python-logo" src="https://github.com/user-attachments/assets/5971a450-9da8-49fe-be3d-8ad72fb4c33a" />
 </p>
-<a href="#pt"><img width="64" height="64" alt="Portuguese" src="https://github.com/user-attachments/assets/fe1069b8-5eda-4d57-93fc-db6c2635ac25" /></a>  <a href="#en"><img width="64" height="64" alt="English" src="https://github.com/user-attachments/assets/879f3cc8-bbe3-490d-88be-ab687aa718b1" /></a>
+<a href="#bem-vindo-ao-python-learning"><img width="64" height="64" alt="Portuguese" src="https://github.com/user-attachments/assets/fe1069b8-5eda-4d57-93fc-db6c2635ac25" /></a>  <a href="#welcome-to-python-learning"><img width="64" height="64" alt="English" src="https://github.com/user-attachments/assets/879f3cc8-bbe3-490d-88be-ab687aa718b1" /></a>
 
 ---
 
-
-# <ins>Welcome to Python Learning</ins>
 
 This repository was created to assist me during my Python learning journey and possibly help other people who are also learning.
 
@@ -497,6 +498,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Lesson #13 - "for" Loop Structures](Curso%20em%20Video/Aulas/13%20Estruturas%20de%20repetição%20For.py)  
 - [→ Lesson #14 - "while" Loop Structure](Curso%20em%20Video/Aulas/14%20Estrutura%20de%20repetição%20while.py)  
 - [→ Lesson #15 - Interrupting "while" Loops](Curso%20em%20Video/Aulas/15%20Interrompendo%20repetições%20while.py)  
+- [→ Lesson #16 - Tuples](Curso%20em%20Video/Aulas/15-Tuplas.py)
 
 
 </details>
@@ -515,6 +517,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Practice #13a](Curso%20em%20Video/Aulas%20Praticas/aula13a.py)  
 - [→ Practice #14a](Curso%20em%20Video/Aulas%20Praticas/aula14a.py)  
 - [→ Practice #15a](Curso%20em%20Video/Aulas%20Praticas/aula15a.py)  
+- [→ Practice #16a](Curso%20em%20Video/Aulas%20Praticas/aula16a.py)  
 
 </details>
 <details open>
@@ -591,12 +594,12 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #069 - Group Data Analysis](Curso%20em%20Video/Desafios/6x/desafio069.py)  
 - [→ Exercise #070 - Product Statistics](Curso%20em%20Video/Desafios/7x/desafio070.py)  
 - [→ Exercise #071 - ATM Simulator](Curso%20em%20Video/Desafios/7x/desafio071.py)  
-- [→ Exercise #072](Curso%20em%20Video/Desafios/7x/desafio072.py)  
-- [→ Exercise #073](Curso%20em%20Video/Desafios/7x/desafio073.py)  
-- [→ Exercise #074](Curso%20em%20Video/Desafios/7x/desafio074.py)  
-- [→ Exercise #075](Curso%20em%20Video/Desafios/7x/desafio075.py)  
-- [→ Exercise #076](Curso%20em%20Video/Desafios/7x/desafio076.py)  
-- [→ Exercise #077](Curso%20em%20Video/Desafios/7x/desafio077.py)  
+- [→ Exercise #072 - Number in Full](Curso%20em%20Video/Desafios/7x/desafio072.py)  
+- [→ Exercise #073 - Tuples with Soccer Teams](Curso%20em%20Video/Desafios/7x/desafio073.py)  
+- [→ Exercise #074 - Largest and Smallest Values in Tuple](Curso%20em%20Video/Desafios/7x/desafio074.py)  
+- [→ Exercise #075 - Data Analysis in a Tuple](Curso%20em%20Video/Desafios/7x/desafio075.py)  
+- [→ Exercise #076 - Price List with Tuple](Curso%20em%20Video/Desafios/7x/desafio076.py)  
+- [→ Exercise #077 - Counting Vowels in Tuple](Curso%20em%20Video/Desafios/7x/desafio077.py)  
 - [→ Exercise #078](Curso%20em%20Video/Desafios/7x/desafio078.py)  
 - [→ Exercise #079](Curso%20em%20Video/Desafios/7x/desafio079.py)  
 - [→ Exercise #080](Curso%20em%20Video/Desafios/8x/desafio080.py)  
@@ -760,20 +763,20 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #071 - ATM Simulator](Curso%20em%20Video/Desafios/7x/desafio071.py)  
 
 </details>
-<!--<details open>
+<details open>
 <summary>World 3</summary>
 
--
-
-- [→ Exercise #072](Curso%20em%20Video/Desafios/7x/desafio072.py)  
-- [→ Exercise #073](Curso%20em%20Video/Desafios/7x/desafio073.py)  
-- [→ Exercise #074](Curso%20em%20Video/Desafios/7x/desafio074.py)  
-- [→ Exercise #075](Curso%20em%20Video/Desafios/7x/desafio075.py)  
-- [→ Exercise #076](Curso%20em%20Video/Desafios/7x/desafio076.py)  
-- [→ Exercise #077](Curso%20em%20Video/Desafios/7x/desafio077.py)  
+- [→ Lesson #16 - Tuples](Curso%20em%20Video/Aulas/15-Tuplas.py)
+- [→ Practice #16a](Curso%20em%20Video/Aulas%20Praticas/aula16a.py)  
+- [→ Exercise #072 - Number in Full](Curso%20em%20Video/Desafios/7x/desafio072.py)  
+- [→ Exercise #073 - Tuples with Soccer Teams](Curso%20em%20Video/Desafios/7x/desafio073.py)  
+- [→ Exercise #074 - Largest and Smallest Values in Tuple](Curso%20em%20Video/Desafios/7x/desafio074.py)  
+- [→ Exercise #075 - Data Analysis in a Tuple](Curso%20em%20Video/Desafios/7x/desafio075.py)  
+- [→ Exercise #076 - Price List with Tuple](Curso%20em%20Video/Desafios/7x/desafio076.py)  
+- [→ Exercise #077 - Counting Vowels in Tuple](Curso%20em%20Video/Desafios/7x/desafio077.py)  
   <br>  
+<!---
 -
-
 - [→ Exercise #078](Curso%20em%20Video/Desafios/7x/desafio078.py)  
 - [→ Exercise #079](Curso%20em%20Video/Desafios/7x/desafio079.py)  
 - [→ Exercise #080](Curso%20em%20Video/Desafios/8x/desafio080.py)  
@@ -782,7 +785,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #083](Curso%20em%20Video/Desafios/8x/desafio083.py)  
   <br>  
 -
-
+-
 - [→ Exercise #084](Curso%20em%20Video/Desafios/8x/desafio084.py)  
 - [→ Exercise #085](Curso%20em%20Video/Desafios/8x/desafio085.py)  
 - [→ Exercise #086](Curso%20em%20Video/Desafios/8x/desafio086.py)  
@@ -791,7 +794,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #089](Curso%20em%20Video/Desafios/8x/desafio089.py)  
   <br>  
 -
-
+-
 - [→ Exercise #090](Curso%20em%20Video/Desafios/9x/desafio090.py)  
 - [→ Exercise #091](Curso%20em%20Video/Desafios/9x/desafio091.py)  
 - [→ Exercise #092](Curso%20em%20Video/Desafios/9x/desafio092.py)  
@@ -800,7 +803,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #095](Curso%20em%20Video/Desafios/9x/desafio095.py)  
   <br>  
 -
-
+-
 - [→ Exercise #096](Curso%20em%20Video/Desafios/9x/desafio096.py)  
 - [→ Exercise #097](Curso%20em%20Video/Desafios/9x/desafio097.py)  
 - [→ Exercise #098](Curso%20em%20Video/Desafios/9x/desafio098.py)  
@@ -808,7 +811,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #100](Curso%20em%20Video/Desafios/10x/desafio100.py)  
   <br>  
 -
-
+-
 - [→ Exercise #101](Curso%20em%20Video/Desafios/10x/desafio101.py)  
 - [→ Exercise #102](Curso%20em%20Video/Desafios/10x/desafio102.py)  
 - [→ Exercise #103](Curso%20em%20Video/Desafios/10x/desafio103.py)  
@@ -816,8 +819,8 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #105](Curso%20em%20Video/Desafios/10x/desafio105.py)  
 - [→ Exercise #106](Curso%20em%20Video/Desafios/10x/desafio106.py)  
   <br>  
-- 222
-
+- 
+-
 - [→ Exercise #107](Curso%20em%20Video/Desafios/10x/desafio107.py)  
 - [→ Exercise #108](Curso%20em%20Video/Desafios/10x/desafio108.py)  
 - [→ Exercise #109](Curso%20em%20Video/Desafios/10x/desafio109.py)  
@@ -826,14 +829,14 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #112](Curso%20em%20Video/Desafios/11x/desafio112.py)  
   <br>  
 -
-
+-
 - [→ Exercise #113](Curso%20em%20Video/Desafios/11x/desafio113.py)  
 - [→ Exercise #114](Curso%20em%20Video/Desafios/11x/desafio114.py)  
 - [→ Exercise #115a](Curso%20em%20Video/Desafios/11x/desafio115a.py)  
 - [→ Exercise #115b](Curso%20em%20Video/Desafios/11x/desafio115b.py)  
-- [→ Exercise #115c](Curso%20em%20Video/Desafios/11x/desafio115c.py)  
+- [→ Exercise #115c](Curso%20em%20Video/Desafios/11x/desafio115c.py)  -->
 
-</details>-->
+</details>
 </details>
 
 ***
