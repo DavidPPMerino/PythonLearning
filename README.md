@@ -18,7 +18,7 @@ Este repositório foi criado para auxiliar-me durante a aprendizagem de Python e
 
 ***     
      
-## Curso em Video
+# Curso em Video
 
 Este foi o primeiro curso que frequentei. 
 
@@ -32,7 +32,7 @@ Este curso foi criado em 2017 como tal é possivel que existam informações des
 
 O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara) e é constituido por 3 Mundos:
 ***
-# Mundos
+## Mundos
 
 <details>
   <summary>Descrição dos Mundos</summary>
@@ -46,7 +46,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 </details>
 
 ***
-# Índice de conteúdos Curso em Video
+## Índice de conteúdos Curso em Video
 
 
 <details open>
@@ -211,7 +211,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
   </details>
 </details>
 
----
+##  
 
 <details open>
      <summary> Organizado por Mundos</summary>
@@ -459,7 +459,7 @@ This repository was created to assist me during my Python learning journey and p
 
 ***
 
-## Curso em Video
+# Curso em Video
 
 This was the first course I attended.
 
@@ -473,7 +473,7 @@ This course was created in 2017, so there may be some outdated information, but 
 
 The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara) and is divided into 3 Worlds:
 ***
-# Worlds
+## Worlds
 
 <details>
   <summary>World's Description</summary>
@@ -488,7 +488,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 
 ***
 
-# Curso em Video Content Index
+## Curso em Video Content Index
 
 
 <details open>
@@ -657,7 +657,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 </details>
 </details>
 
----
+##  
 
 <details open>
      <summary> Sorted by Worlds</summary>
