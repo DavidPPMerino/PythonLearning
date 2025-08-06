@@ -66,7 +66,8 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
    - [→ Aula #13 - Estruturas de Repetição "for"](Curso%20em%20Video/Aulas/13%20Estruturas%20de%20repetição%20For.py)
    - [→ Aula #14 - Estruturas de Repetição "while"](Curso%20em%20Video/Aulas/14%20Estrutura%20de%20repetição%20while.py)
    - [→ Aula #15 - Interrompendo Repetições "while"](Curso%20em%20Video/Aulas/15%20Interrompendo%20repetições%20while.py)
-   - [→ Aula #16 - Tuplas](Curso%20em%20Video/Aulas/15-Tuplas.py)
+   - [→ Aula #16 - Tuplas](Curso%20em%20Video/Aulas/16-Tuplas.py)
+   - [→ Aula #17 - Listas (Parte 1)](Curso%20em%20Video/Aulas/17-Listas-pt1.py)
   </details>
   <details>
       <summary>   Prática das Aulas</summary>
@@ -84,6 +85,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
    - [→ Prática #14a](Curso%20em%20Video/Aulas%20Praticas/aula14a.py)  
    - [→ Prática #15a](Curso%20em%20Video/Aulas%20Praticas/aula15a.py)  
    - [→ Prática #16a](Curso%20em%20Video/Aulas%20Praticas/aula16a.py) 
+   - [→ Prática #17a](Curso%20em%20Video/Aulas%20Praticas/aula17a.py) 
   </details>
   <details>
       <summary>   Exercicios</summary>
@@ -165,13 +167,13 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
    - [→ Exercício #075 - Análise de dados em uma Tupla](Curso%20em%20Video/Desafios/7x/desafio075.py)  
    - [→ Exercício #076 - Lista de Preços com Tupla](Curso%20em%20Video/Desafios/7x/desafio076.py)  
    - [→ Exercício #077 - Contando vogais em Tupla](Curso%20em%20Video/Desafios/7x/desafio077.py)  
-   <!--- [→ Exercício #078](Curso%20em%20Video/Desafios/7x/desafio078.py)  
-   - [→ Exercício #079](Curso%20em%20Video/Desafios/7x/desafio079.py)  
-   - [→ Exercício #080](Curso%20em%20Video/Desafios/8x/desafio080.py)  
-   - [→ Exercício #081](Curso%20em%20Video/Desafios/8x/desafio081.py)  
-   - [→ Exercício #082](Curso%20em%20Video/Desafios/8x/desafio082.py)  
-   - [→ Exercício #083](Curso%20em%20Video/Desafios/8x/desafio083.py)  
-   - [→ Exercício #084](Curso%20em%20Video/Desafios/8x/desafio084.py)  
+   - [→ Exercício #078 - Maior e Menor valores na Lista](Curso%20em%20Video/Desafios/7x/desafio078.py)  
+   - [→ Exercício #079 - Valores única em uma Lista](Curso%20em%20Video/Desafios/7x/desafio079.py)  
+   - [→ Exercício #080 - Lista ordenada sem repetições](Curso%20em%20Video/Desafios/8x/desafio080.py)  
+   - [→ Exercício #081 - Extraindo dados de uma Lista](Curso%20em%20Video/Desafios/8x/desafio081.py)  
+   - [→ Exercício #082 - Dividindo valores em várias listas](Curso%20em%20Video/Desafios/8x/desafio082.py)  
+   - [→ Exercício #083 - Validando expressões matemáticas](Curso%20em%20Video/Desafios/8x/desafio083.py)  
+   <!--- [→ Exercício #084](Curso%20em%20Video/Desafios/8x/desafio084.py)  
    - [→ Exercício #085](Curso%20em%20Video/Desafios/8x/desafio085.py)  
    - [→ Exercício #086](Curso%20em%20Video/Desafios/8x/desafio086.py)  
    - [→ Exercício #087](Curso%20em%20Video/Desafios/8x/desafio087.py)  
@@ -342,7 +344,7 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
 <summary>Mundo 3</summary>
 
 - Aula #16
-   - [→ Aula #16 - Tuplas](Curso%20em%20Video/Aulas/15-Tuplas.py)
+   - [→ Aula #16 - Tuplas](Curso%20em%20Video/Aulas/16-Tuplas.py)
    - [→ Prática #16a](Curso%20em%20Video/Aulas%20Praticas/aula16a.py)
    - [→ Exercício #072 - Número por Extenso](Curso%20em%20Video/Desafios/7x/desafio072.py)  
    - [→ Exercício #073 - Tuplas com Times de Futebol](Curso%20em%20Video/Desafios/7x/desafio073.py)  
@@ -350,16 +352,16 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
    - [→ Exercício #075 - Análise de dados em uma Tupla](Curso%20em%20Video/Desafios/7x/desafio075.py)  
    - [→ Exercício #076 - Lista de Preços com Tupla](Curso%20em%20Video/Desafios/7x/desafio076.py)  
    - [→ Exercício #077 - Contando vogais em Tupla](Curso%20em%20Video/Desafios/7x/desafio077.py)  
-<!--- Aula #17
-   -
-   -
-   - [→ Exercício #078](Curso%20em%20Video/Desafios/7x/desafio078.py)  
-   - [→ Exercício #079](Curso%20em%20Video/Desafios/7x/desafio079.py)  
-   - [→ Exercício #080](Curso%20em%20Video/Desafios/8x/desafio080.py)  
-   - [→ Exercício #081](Curso%20em%20Video/Desafios/8x/desafio081.py)  
-   - [→ Exercício #082](Curso%20em%20Video/Desafios/8x/desafio082.py)  
-   - [→ Exercício #083](Curso%20em%20Video/Desafios/8x/desafio083.py) 
-- Aula #18
+- Aula #17
+   - [→ Aula #17 - Listas (Parte 1)](Curso%20em%20Video/Aulas/17-Listas-pt1.py)
+   - [→ Prática #17a](Curso%20em%20Video/Aulas%20Praticas/aula17a.py) 
+   - [→ Exercício #078 - Maior e Menor valores na Lista](Curso%20em%20Video/Desafios/7x/desafio078.py)  
+   - [→ Exercício #079 - Valores única em uma Lista](Curso%20em%20Video/Desafios/7x/desafio079.py)  
+   - [→ Exercício #080 - Lista ordenada sem repetições](Curso%20em%20Video/Desafios/8x/desafio080.py)  
+   - [→ Exercício #081 - Extraindo dados de uma Lista](Curso%20em%20Video/Desafios/8x/desafio081.py)  
+   - [→ Exercício #082 - Dividindo valores em várias listas](Curso%20em%20Video/Desafios/8x/desafio082.py)  
+   - [→ Exercício #083 - Validando expressões matemáticas](Curso%20em%20Video/Desafios/8x/desafio083.py)  
+<!--- Aula #18
    -
    -
    - [→ Exercício #084](Curso%20em%20Video/Desafios/8x/desafio084.py)  
@@ -509,7 +511,8 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Lesson #13 - "for" Loop Structures](Curso%20em%20Video/Aulas/13%20Estruturas%20de%20repetição%20For.py)  
 - [→ Lesson #14 - "while" Loop Structure](Curso%20em%20Video/Aulas/14%20Estrutura%20de%20repetição%20while.py)  
 - [→ Lesson #15 - Interrupting "while" Loops](Curso%20em%20Video/Aulas/15%20Interrompendo%20repetições%20while.py)  
-- [→ Lesson #16 - Tuples](Curso%20em%20Video/Aulas/15-Tuplas.py)
+- [→ Lesson #16 - Tuples](Curso%20em%20Video/Aulas/16-Tuplas.py)
+- [→ Lesson #17 - Lists (Part 1)](Curso%20em%20Video/Aulas/17-Listas-pt1.py)
 
 
 </details>
@@ -529,6 +532,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Practice #14a](Curso%20em%20Video/Aulas%20Praticas/aula14a.py)  
 - [→ Practice #15a](Curso%20em%20Video/Aulas%20Praticas/aula15a.py)  
 - [→ Practice #16a](Curso%20em%20Video/Aulas%20Praticas/aula16a.py)  
+- [→ Practice #17a](Curso%20em%20Video/Aulas%20Praticas/aula17a.py) 
 
 </details>
 <details>
@@ -611,13 +615,13 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #075 - Data Analysis in a Tuple](Curso%20em%20Video/Desafios/7x/desafio075.py)  
 - [→ Exercise #076 - Price List with Tuple](Curso%20em%20Video/Desafios/7x/desafio076.py)  
 - [→ Exercise #077 - Counting Vowels in Tuple](Curso%20em%20Video/Desafios/7x/desafio077.py)  
-<!--- [→ Exercise #078](Curso%20em%20Video/Desafios/7x/desafio078.py)  
-- [→ Exercise #079](Curso%20em%20Video/Desafios/7x/desafio079.py)  
-- [→ Exercise #080](Curso%20em%20Video/Desafios/8x/desafio080.py)  
-- [→ Exercise #081](Curso%20em%20Video/Desafios/8x/desafio081.py)  
-- [→ Exercise #082](Curso%20em%20Video/Desafios/8x/desafio082.py)  
-- [→ Exercise #083](Curso%20em%20Video/Desafios/8x/desafio083.py)  
-- [→ Exercise #084](Curso%20em%20Video/Desafios/8x/desafio084.py)  
+- [→ Exercise #078 - Largest and Smallest values in a List](Curso%20em%20Video/Desafios/7x/desafio078.py)  
+- [→ Exercise #079 - Unique values in a List](Curso%20em%20Video/Desafios/7x/desafio079.py)  
+- [→ Exercise #080 - Sorted list without duplicates](Curso%20em%20Video/Desafios/8x/desafio080.py)  
+- [→ Exercise #081 - Extracting data from a List](Curso%20em%20Video/Desafios/8x/desafio081.py)  
+- [→ Exercise #082 - Splitting values into several lists](Curso%20em%20Video/Desafios/8x/desafio082.py)  
+- [→ Exercise #083 - Validating mathematical expressions](Curso%20em%20Video/Desafios/8x/desafio083.py)
+<!--- [→ Exercise #084](Curso%20em%20Video/Desafios/8x/desafio084.py)  
 - [→ Exercise #085](Curso%20em%20Video/Desafios/8x/desafio085.py)  
 - [→ Exercise #086](Curso%20em%20Video/Desafios/8x/desafio086.py)  
 - [→ Exercise #087](Curso%20em%20Video/Desafios/8x/desafio087.py)  
@@ -781,7 +785,7 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 <summary>World 3</summary>
 
 - Lesson #16
-   - [→ Lesson #16 - Tuples](Curso%20em%20Video/Aulas/15-Tuplas.py)
+   - [→ Lesson #16 - Tuples](Curso%20em%20Video/Aulas/16-Tuplas.py)
    - [→ Practice #16a](Curso%20em%20Video/Aulas%20Praticas/aula16a.py)  
    - [→ Exercise #072 - Number in Full](Curso%20em%20Video/Desafios/7x/desafio072.py)  
    - [→ Exercise #073 - Tuples with Soccer Teams](Curso%20em%20Video/Desafios/7x/desafio073.py)  
@@ -789,16 +793,16 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
    - [→ Exercise #075 - Data Analysis in a Tuple](Curso%20em%20Video/Desafios/7x/desafio075.py)  
    - [→ Exercise #076 - Price List with Tuple](Curso%20em%20Video/Desafios/7x/desafio076.py)  
    - [→ Exercise #077 - Counting Vowels in Tuple](Curso%20em%20Video/Desafios/7x/desafio077.py)  
-<!--- Lesson #17
-   -
-   -
-   - [→ Exercise #078](Curso%20em%20Video/Desafios/7x/desafio078.py)  
-   - [→ Exercise #079](Curso%20em%20Video/Desafios/7x/desafio079.py)  
-   - [→ Exercise #080](Curso%20em%20Video/Desafios/8x/desafio080.py)  
-   - [→ Exercise #081](Curso%20em%20Video/Desafios/8x/desafio081.py)  
-   - [→ Exercise #082](Curso%20em%20Video/Desafios/8x/desafio082.py)  
-   - [→ Exercise #083](Curso%20em%20Video/Desafios/8x/desafio083.py)  
-- Lesson #18
+- Lesson #17
+   - [→ Lesson #17 - Lists (Part 1)](Curso%20em%20Video/Aulas/17-Listas-pt1.py)
+   - [→ Practice #17a](Curso%20em%20Video/Aulas%20Praticas/aula17a.py) 
+   - [→ Exercise #078 - Largest and Smallest values in a List](Curso%20em%20Video/Desafios/7x/desafio078.py)  
+   - [→ Exercise #079 - Unique values in a List](Curso%20em%20Video/Desafios/7x/desafio079.py)  
+   - [→ Exercise #080 - Sorted list without duplicates](Curso%20em%20Video/Desafios/8x/desafio080.py)  
+   - [→ Exercise #081 - Extracting data from a List](Curso%20em%20Video/Desafios/8x/desafio081.py)  
+   - [→ Exercise #082 - Splitting values into several lists](Curso%20em%20Video/Desafios/8x/desafio082.py)  
+   - [→ Exercise #083 - Validating mathematical expressions](Curso%20em%20Video/Desafios/8x/desafio083.py)
+<!--- Lesson #18
    -
    -
    - [→ Exercise #084](Curso%20em%20Video/Desafios/8x/desafio084.py)  
