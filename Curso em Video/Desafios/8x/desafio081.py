@@ -19,6 +19,6 @@ print("-=" * 15 + "-")
 print(f"Você escreveu {len(nums)} elementos.")
 print(f"Os valores em ordem decrescente são {nums}")
 if 5 in nums:
-    print(f"O valor 5 foi encontrado na lista!")
+    print("O valor 5 foi encontrado na lista!")
 else:
-    print(f"O valor 5 não foi encontrado na lista!")
+    print("O valor 5 não foi encontrado na lista!")
