@@ -6,3 +6,13 @@ No final, mostre a 'matriz' na tela, com a formatação correta.
 [ 4 ][ 5 ][ 6 ]
 [ 7 ][ 8 ][ 9 ]
 """
+matrix = [[], [], []]
+for col, line in enumerate(matrix):
+    for i in range(0, 3):
+        num = int(input(f"Escreva um valor para [{col}, {i}]: "))
+        matrix[col].insert(i, num)
+print("-=" * 20 + "-")
+for line in matrix:
+    for num in line:
+        print(f"[ {num} ]", end="")
+    print()
