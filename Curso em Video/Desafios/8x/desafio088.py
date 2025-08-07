@@ -15,5 +15,5 @@ for i in range(qty):
     nums = choices(range(1, 61), k=6)
     print(f"Jogo {i+1}: {nums}")
     sleep(1)
-print("-=" * 5, f"< BOA SORTE >".center(20), "=-" * 5)
-print("-=" * 5, f"Jogue com moderação".center(20), "=-" * 5)
+print("-=" * 5, "< BOA SORTE >".center(20), "=-" * 5)
+print("-=" * 5, "Jogue com moderação".center(20), "=-" * 5)
