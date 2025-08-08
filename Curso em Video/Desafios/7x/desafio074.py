@@ -4,6 +4,8 @@ Crie um programa que vai gerar 'cinco números aleatórios e colocar em uma
 Depois disso, mostra a 'listagem de números' gerados e tambem indique 
 o 'menor' e o 'maior' valor que estão na tupla.
 """
+
+" V1.0 "
 # from random import randint
 
 # n1 = randint(0, 10)

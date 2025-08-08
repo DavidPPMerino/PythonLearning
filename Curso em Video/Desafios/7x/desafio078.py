@@ -3,6 +3,8 @@ Faça um programa que leia '5 valores numéricos'e guarde-os em uma 'lista'.
 No final, mostre qual foi o 'maior' e o 'menor' valor digitado e as suas 
 respetivas 'posições' na lista.
 """
+
+" V1.0 "
 # list = []
 # for count in range(0, 5):
 #     list.append(int(input(f"Escreva um valor para a Posição {count}: ")))

@@ -5,6 +5,7 @@ e os valores 'ímpares' digitados, respetivamente.
 Ao final, mostre o conteúdo das 'três listas' geradas.
 """
 
+" V1.0 "
 # nums = []
 # while True:
 #     nums.append(int(input("Escreva um valor: ")))

@@ -68,6 +68,8 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
    - [→ Aula #15 - Interrompendo Repetições "while"](Curso%20em%20Video/Aulas/15%20Interrompendo%20repetições%20while.py)
    - [→ Aula #16 - Tuplas](Curso%20em%20Video/Aulas/16-Tuplas.py)
    - [→ Aula #17 - Listas (Parte 1)](Curso%20em%20Video/Aulas/17-Listas-pt1.py)
+   - [→ Aula #18 - Listas (Parte 2)](Curso%20em%20Video/Aulas/18-Listas-pt2.py)
+   - [→ Aula #19 - Dicionários](Curso%20em%20Video/Aulas/19-dicionarios.py)
   </details>
   <details>
       <summary>   Prática das Aulas</summary>
@@ -86,6 +88,8 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
    - [→ Prática #15a](Curso%20em%20Video/Aulas%20Praticas/aula15a.py)  
    - [→ Prática #16a](Curso%20em%20Video/Aulas%20Praticas/aula16a.py) 
    - [→ Prática #17a](Curso%20em%20Video/Aulas%20Praticas/aula17a.py) 
+   - [→ Prática #18a](Curso%20em%20Video/Aulas%20Praticas/aula18a.py) 
+   - [→ Prática #19a](Curso%20em%20Video/Aulas%20Praticas/aula19a.py) 
   </details>
   <details>
       <summary>   Exercicios</summary>
@@ -173,18 +177,18 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
    - [→ Exercício #081 - Extraindo dados de uma Lista](Curso%20em%20Video/Desafios/8x/desafio081.py)  
    - [→ Exercício #082 - Dividindo valores em várias listas](Curso%20em%20Video/Desafios/8x/desafio082.py)  
    - [→ Exercício #083 - Validando expressões matemáticas](Curso%20em%20Video/Desafios/8x/desafio083.py)  
-   <!--- [→ Exercício #084](Curso%20em%20Video/Desafios/8x/desafio084.py)  
-   - [→ Exercício #085](Curso%20em%20Video/Desafios/8x/desafio085.py)  
-   - [→ Exercício #086](Curso%20em%20Video/Desafios/8x/desafio086.py)  
-   - [→ Exercício #087](Curso%20em%20Video/Desafios/8x/desafio087.py)  
-   - [→ Exercício #088](Curso%20em%20Video/Desafios/8x/desafio088.py)  
-   - [→ Exercício #089](Curso%20em%20Video/Desafios/8x/desafio089.py)  
-   - [→ Exercício #090](Curso%20em%20Video/Desafios/9x/desafio090.py)  
-   - [→ Exercício #091](Curso%20em%20Video/Desafios/9x/desafio091.py)  
-   - [→ Exercício #092](Curso%20em%20Video/Desafios/9x/desafio092.py)  
-   - [→ Exercício #093](Curso%20em%20Video/Desafios/9x/desafio093.py)  
-   - [→ Exercício #094](Curso%20em%20Video/Desafios/9x/desafio094.py)  
-   - [→ Exercício #095](Curso%20em%20Video/Desafios/9x/desafio095.py)  
+   - [→ Exercício #084 - Lista composta e análise de dados](Curso%20em%20Video/Desafios/8x/desafio084.py)  
+   - [→ Exercício #085 - Listas com pares e ímpares](Curso%20em%20Video/Desafios/8x/desafio085.py)  
+   - [→ Exercício #086 - Matriz em Python](Curso%20em%20Video/Desafios/8x/desafio086.py)  
+   - [→ Exercício #087 - Mais sobre Matriz em Python](Curso%20em%20Video/Desafios/8x/desafio087.py)  
+   - [→ Exercício #088 - Palpites para a Mega Sena](Curso%20em%20Video/Desafios/8x/desafio088.py)  
+   - [→ Exercício #089 - Boletim com listas compostas](Curso%20em%20Video/Desafios/8x/desafio089.py)  
+   <!--- [→ Exercício #090 - Dicionário em Python](Curso%20em%20Video/Desafios/9x/desafio090.py)  
+   - [→ Exercício #091 - Jogo de Dados em Python](Curso%20em%20Video/Desafios/9x/desafio091.py)  
+   - [→ Exercício #092 - Cadastro de Trabalhador em Python](Curso%20em%20Video/Desafios/9x/desafio092.py)  
+   - [→ Exercício #093 - Cadastro de Jogados de Futebol](Curso%20em%20Video/Desafios/9x/desafio093.py)  
+   - [→ Exercício #094 - Unindo dicionários e listas](Curso%20em%20Video/Desafios/9x/desafio094.py)  
+   - [→ Exercício #095 - Aprimorando os Dicionários](Curso%20em%20Video/Desafios/9x/desafio095.py)  
    - [→ Exercício #096](Curso%20em%20Video/Desafios/9x/desafio096.py)  
    - [→ Exercício #097](Curso%20em%20Video/Desafios/9x/desafio097.py)  
    - [→ Exercício #098](Curso%20em%20Video/Desafios/9x/desafio098.py)  
@@ -361,24 +365,24 @@ O curso é lecionado por [Gustavo Guanabara](https://github.com/gustavoguanabara
    - [→ Exercício #081 - Extraindo dados de uma Lista](Curso%20em%20Video/Desafios/8x/desafio081.py)  
    - [→ Exercício #082 - Dividindo valores em várias listas](Curso%20em%20Video/Desafios/8x/desafio082.py)  
    - [→ Exercício #083 - Validando expressões matemáticas](Curso%20em%20Video/Desafios/8x/desafio083.py)  
-<!--- Aula #18
-   -
-   -
-   - [→ Exercício #084](Curso%20em%20Video/Desafios/8x/desafio084.py)  
-   - [→ Exercício #085](Curso%20em%20Video/Desafios/8x/desafio085.py)  
-   - [→ Exercício #086](Curso%20em%20Video/Desafios/8x/desafio086.py)  
-   - [→ Exercício #087](Curso%20em%20Video/Desafios/8x/desafio087.py)  
-   - [→ Exercício #088](Curso%20em%20Video/Desafios/8x/desafio088.py)  
-   - [→ Exercício #089](Curso%20em%20Video/Desafios/8x/desafio089.py)
-- Aula #19
-   -
-   -
-   - [→ Exercício #090](Curso%20em%20Video/Desafios/9x/desafio090.py)  
-   - [→ Exercício #091](Curso%20em%20Video/Desafios/9x/desafio091.py)  
-   - [→ Exercício #092](Curso%20em%20Video/Desafios/9x/desafio092.py)  
-   - [→ Exercício #093](Curso%20em%20Video/Desafios/9x/desafio093.py)  
-   - [→ Exercício #094](Curso%20em%20Video/Desafios/9x/desafio094.py)  
-   - [→ Exercício #095](Curso%20em%20Video/Desafios/9x/desafio095.py)  
+- Aula #18
+   - [→ Aula #18 - Listas (Parte 2)](Curso%20em%20Video/Aulas/18-Listas-pt2.py)
+   - [→ Prática #18a](Curso%20em%20Video/Aulas%20Praticas/aula18a.py)
+   - [→ Exercício #084 - Lista composta e análise de dados](Curso%20em%20Video/Desafios/8x/desafio084.py)  
+   - [→ Exercício #085 - Listas com pares e ímpares](Curso%20em%20Video/Desafios/8x/desafio085.py)  
+   - [→ Exercício #086 - Matriz em Python](Curso%20em%20Video/Desafios/8x/desafio086.py)  
+   - [→ Exercício #087 - Mais sobre Matriz em Python](Curso%20em%20Video/Desafios/8x/desafio087.py)  
+   - [→ Exercício #088 - Palpites para a Mega Sena](Curso%20em%20Video/Desafios/8x/desafio088.py)  
+   - [→ Exercício #089 - Boletim com listas compostas](Curso%20em%20Video/Desafios/8x/desafio089.py)  
+<!--- Aula #19
+   - [→ Aula #19 - Dicionários](Curso%20em%20Video/Aulas/19-dicionarios.py)
+   - [→ Prática #19a](Curso%20em%20Video/Aulas%20Praticas/aula19a.py) 
+   - [→ Exercício #090 - Dicionário em Python](Curso%20em%20Video/Desafios/9x/desafio090.py)  
+   - [→ Exercício #091 - Jogo de Dados em Python](Curso%20em%20Video/Desafios/9x/desafio091.py)  
+   - [→ Exercício #092 - Cadastro de Trabalhador em Python](Curso%20em%20Video/Desafios/9x/desafio092.py)  
+   - [→ Exercício #093 - Cadastro de Jogados de Futebol](Curso%20em%20Video/Desafios/9x/desafio093.py)  
+   - [→ Exercício #094 - Unindo dicionários e listas](Curso%20em%20Video/Desafios/9x/desafio094.py)  
+   - [→ Exercício #095 - Aprimorando os Dicionários](Curso%20em%20Video/Desafios/9x/desafio095.py)  
 - Aula #20
    -
    -
@@ -513,7 +517,8 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Lesson #15 - Interrupting "while" Loops](Curso%20em%20Video/Aulas/15%20Interrompendo%20repetições%20while.py)  
 - [→ Lesson #16 - Tuples](Curso%20em%20Video/Aulas/16-Tuplas.py)
 - [→ Lesson #17 - Lists (Part 1)](Curso%20em%20Video/Aulas/17-Listas-pt1.py)
-
+- [→ Lesson #18 - Lists (Part 2)](Curso%20em%20Video/Aulas/18-Listas-pt2.py)
+- [→ Lesson #19 - Dictionaries](Curso%20em%20Video/Aulas/19-dicionarios.py)
 
 </details>
 <details>
@@ -533,6 +538,8 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Practice #15a](Curso%20em%20Video/Aulas%20Praticas/aula15a.py)  
 - [→ Practice #16a](Curso%20em%20Video/Aulas%20Praticas/aula16a.py)  
 - [→ Practice #17a](Curso%20em%20Video/Aulas%20Praticas/aula17a.py) 
+- [→ Practice #18a](Curso%20em%20Video/Aulas%20Praticas/aula18a.py) 
+- [→ Practice #19a](Curso%20em%20Video/Aulas%20Praticas/aula19a.py) 
 
 </details>
 <details>
@@ -621,18 +628,18 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
 - [→ Exercise #081 - Extracting data from a List](Curso%20em%20Video/Desafios/8x/desafio081.py)  
 - [→ Exercise #082 - Splitting values into several lists](Curso%20em%20Video/Desafios/8x/desafio082.py)  
 - [→ Exercise #083 - Validating mathematical expressions](Curso%20em%20Video/Desafios/8x/desafio083.py)
-<!--- [→ Exercise #084](Curso%20em%20Video/Desafios/8x/desafio084.py)  
-- [→ Exercise #085](Curso%20em%20Video/Desafios/8x/desafio085.py)  
-- [→ Exercise #086](Curso%20em%20Video/Desafios/8x/desafio086.py)  
-- [→ Exercise #087](Curso%20em%20Video/Desafios/8x/desafio087.py)  
-- [→ Exercise #088](Curso%20em%20Video/Desafios/8x/desafio088.py)  
-- [→ Exercise #089](Curso%20em%20Video/Desafios/8x/desafio089.py)  
-- [→ Exercise #090](Curso%20em%20Video/Desafios/9x/desafio090.py)  
-- [→ Exercise #091](Curso%20em%20Video/Desafios/9x/desafio091.py)  
-- [→ Exercise #092](Curso%20em%20Video/Desafios/9x/desafio092.py)  
-- [→ Exercise #093](Curso%20em%20Video/Desafios/9x/desafio093.py)  
-- [→ Exercise #094](Curso%20em%20Video/Desafios/9x/desafio094.py)  
-- [→ Exercise #095](Curso%20em%20Video/Desafios/9x/desafio095.py)  
+- [→ Exercise #084 - Composite list and data analysis](Curso%20em%20Video/Desafios/8x/desafio084.py)
+- [→ Exercise #085 - Lists with even and odd numbers](Curso%20em%20Video/Desafios/8x/desafio085.py)
+- [→ Exercise #086 - Matrix in Python](Curso%20em%20Video/Desafios/8x/desafio086.py)
+- [→ Exercise #087 - More about Matrix in Python](Curso%20em%20Video/Desafios/8x/desafio087.py)
+- [→ Exercise #088 - Guesses for Mega Sena](Curso%20em%20Video/Desafios/8x/desafio088.py)
+- [→ Exercise #089 - Report card with composite lists](Curso%20em%20Video/Desafios/8x/desafio089.py)
+<!--- [→ Exercise #090 - Dictionary in Python](Curso%20em%20Video/Desafios/9x/desafio090.py)
+- [→ Exercise #091 - Dice game in Python](Curso%20em%20Video/Desafios/9x/desafio091.py)
+- [→ Exercise #092 - Worker registration in Python](Curso%20em%20Video/Desafios/9x/desafio092.py)
+- [→ Exercise #093 - Football player registration](Curso%20em%20Video/Desafios/9x/desafio093.py)
+- [→ Exercise #094 - Combining dictionaries and lists](Curso%20em%20Video/Desafios/9x/desafio094.py)
+- [→ Exercise #095 - Improving dictionaries](Curso%20em%20Video/Desafios/9x/desafio095.py)
 - [→ Exercise #096](Curso%20em%20Video/Desafios/9x/desafio096.py)  
 - [→ Exercise #097](Curso%20em%20Video/Desafios/9x/desafio097.py)  
 - [→ Exercise #098](Curso%20em%20Video/Desafios/9x/desafio098.py)  
@@ -802,24 +809,24 @@ The course is taught by [Gustavo Guanabara](https://github.com/gustavoguanabara)
    - [→ Exercise #081 - Extracting data from a List](Curso%20em%20Video/Desafios/8x/desafio081.py)  
    - [→ Exercise #082 - Splitting values into several lists](Curso%20em%20Video/Desafios/8x/desafio082.py)  
    - [→ Exercise #083 - Validating mathematical expressions](Curso%20em%20Video/Desafios/8x/desafio083.py)
-<!--- Lesson #18
-   -
-   -
-   - [→ Exercise #084](Curso%20em%20Video/Desafios/8x/desafio084.py)  
-   - [→ Exercise #085](Curso%20em%20Video/Desafios/8x/desafio085.py)  
-   - [→ Exercise #086](Curso%20em%20Video/Desafios/8x/desafio086.py)  
-   - [→ Exercise #087](Curso%20em%20Video/Desafios/8x/desafio087.py)  
-   - [→ Exercise #088](Curso%20em%20Video/Desafios/8x/desafio088.py)  
-   - [→ Exercise #089](Curso%20em%20Video/Desafios/8x/desafio089.py)  
-- Lesson #19
-   -
-   -
-   - [→ Exercise #090](Curso%20em%20Video/Desafios/9x/desafio090.py)  
-   - [→ Exercise #091](Curso%20em%20Video/Desafios/9x/desafio091.py)  
-   - [→ Exercise #092](Curso%20em%20Video/Desafios/9x/desafio092.py)  
-   - [→ Exercise #093](Curso%20em%20Video/Desafios/9x/desafio093.py)  
-   - [→ Exercise #094](Curso%20em%20Video/Desafios/9x/desafio094.py)  
-   - [→ Exercise #095](Curso%20em%20Video/Desafios/9x/desafio095.py)  
+- Lesson #18
+   - [→ Lesson #18 - Lists (Part 2)](Curso%20em%20Video/Aulas/18-Listas-pt2.py)
+   - [→ Practice #18a](Curso%20em%20Video/Aulas%20Praticas/aula18a.py) 
+   - [→ Exercise #084 - Composite list and data analysis](Curso%20em%20Video/Desafios/8x/desafio084.py)
+   - [→ Exercise #085 - Lists with even and odd numbers](Curso%20em%20Video/Desafios/8x/desafio085.py)
+   - [→ Exercise #086 - Matrix in Python](Curso%20em%20Video/Desafios/8x/desafio086.py)
+   - [→ Exercise #087 - More about Matrix in Python](Curso%20em%20Video/Desafios/8x/desafio087.py)
+   - [→ Exercise #088 - Guesses for Mega Sena](Curso%20em%20Video/Desafios/8x/desafio088.py)
+   - [→ Exercise #089 - Report card with composite lists](Curso%20em%20Video/Desafios/8x/desafio089.py)
+<!--- Lesson #19
+   - [→ Lesson #19 - Dictionaries](Curso%20em%20Video/Aulas/19-dicionarios.py)
+   - [→ Practice #19a](Curso%20em%20Video/Aulas%20Praticas/aula19a.py) 
+   - [→ Exercise #090 - Dictionary in Python](Curso%20em%20Video/Desafios/9x/desafio090.py)
+   - [→ Exercise #091 - Dice game in Python](Curso%20em%20Video/Desafios/9x/desafio091.py)
+   - [→ Exercise #092 - Worker registration in Python](Curso%20em%20Video/Desafios/9x/desafio092.py)
+   - [→ Exercise #093 - Football player registration](Curso%20em%20Video/Desafios/9x/desafio093.py)
+   - [→ Exercise #094 - Combining dictionaries and lists](Curso%20em%20Video/Desafios/9x/desafio094.py)
+   - [→ Exercise #095 - Improving dictionaries](Curso%20em%20Video/Desafios/9x/desafio095.py)
 - Lesson #20
    -
    -

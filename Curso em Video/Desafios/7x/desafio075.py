@@ -5,6 +5,8 @@ a) Quantas vezes apareceu o valor '9'.
 b) Em que posição foi digitado o primeiro valor '3'.
 c) Quais foram os números pares.
 """
+
+" V1.0 "
 n1 = int(input("Escreva um número: "))
 n2 = int(input("Escreva outro número: "))
 n3 = int(input("Escreva mais um número: "))
