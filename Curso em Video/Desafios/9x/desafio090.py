@@ -1,5 +1,5 @@
 """ Enunciado:
-Faça um  programa que leia 'nome e média' de um aluno guardando também a 
+Faça um  programa que leia 'nome e média' de um student guardando também a 
 'situação' em um 'dicionário'. 
 No final, mostre o conteúdo da estrutura na tela.
 7 => aprovado
@@ -12,3 +12,12 @@ situação é igual a ...
 """
 
 " V1.0 "
+student = {}
+student["Nome"] = str(input("Nome: "))
+student["Média"] = float(input(f"Média de {student["Nome"]}: "))
+if student["Média"] >= 7:
+    student["Situação"] = "Aprovado"
+else:
+    student["Situação"] = "Reprovado"
+for k, v in student.items():
+    print(f"{k} é igual a {v}")
