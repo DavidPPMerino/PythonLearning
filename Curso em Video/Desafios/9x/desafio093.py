@@ -10,7 +10,7 @@ feitos durante o campeonato.
 player = {}
 goals = []
 player["nome"] = input("Nome do Jogador: ") 
-games = int(input(f"Quantas jogos jogou {player["nome"]}? "))
+games = int(input(f"Quantos jogos jogou {player["nome"]}? "))
 if games >= 1:
     for i in range(1, (games+1)):
         goals.append(int(input(f"Quantos golos no {i}º jogo? ")))
