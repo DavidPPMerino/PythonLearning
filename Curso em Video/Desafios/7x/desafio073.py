@@ -6,6 +6,8 @@ b) Os 'últimos 4' colocados da tabela.
 c) Uma lista com os times em 'ordem alfabética'.
 d) Em que 'posição' na tabela está o time da 'Chapecoense'
 """
+
+" V1.0 "
 times = ("Coritiba", "Goiás", "Novorizontino", "Chapecoense", "Remo", 
          "Criciúma", "Cuiabá", "Avaí", "Vila Nova", "CRB", "Athletico-PR", 
          "Athletic Club", "Operário-PR", "Atlético-GO", "Ferroviária", 
