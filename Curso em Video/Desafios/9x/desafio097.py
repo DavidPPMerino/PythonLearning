@@ -10,3 +10,13 @@ SAIDA:
 """
 
 " V1.0 "
+def escreva(txt):
+    print('~' * (len(txt) + 4))
+    print(txt.center(len(txt) + 4))
+    print('~' * (len(txt) + 4))
+
+
+#Programa
+escreva('Olá, Mundo')
+escreva('Curso de Pyton no Youtube')
+escreva('CeV')
