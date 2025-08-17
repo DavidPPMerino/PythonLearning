@@ -10,13 +10,27 @@ SAIDA:
 """
 
 " V1.0 "
-def escreva(txt):
-    print('~' * (len(txt) + 4))
-    print(txt.center(len(txt) + 4))
-    print('~' * (len(txt) + 4))
+# def escreva(txt):
+#     print('~' * (len(txt) + 4))
+#     print(txt.center(len(txt) + 4))
+#     print('~' * (len(txt) + 4))
 
 
-#Programa
-escreva('Olá, Mundo')
-escreva('Curso de Pyton no Youtube')
+# #Programa
+# escreva('Olá, Mundo')
+# escreva('Curso de Python no Youtube')
+# escreva('CeV')
+
+""" Resolução Curso em Video """
+def escreva(msg):
+    tam = len(msg) + 4
+    print('~' * tam)
+    print(f'  {msg}')
+    print('~' * tam)
+
+
+
+# Programa Principal
+escreva('Gustavo Guanabara')
+escreva('Curso de Python no Youtube')
 escreva('CeV')

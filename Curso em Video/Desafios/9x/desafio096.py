@@ -4,20 +4,33 @@ de um terreno retangular (largura e comprimento) e mostre a 'área do terreno'.
 """
 
 " V1.0 "
-def area(a, b):
-    x = a * b
-    print(f'A área de um terreno de {a:.1f}x{b:.1f} é de {x:.1f}m²')
+# def area(a, b):
+#     x = a * b
+#     print(f'A área de um terreno de {a:.1f}x{b:.1f} é de {x:.1f}m²')
 
-def titulo(txt):
-    print('-=' * 25 + '-')
-    print(txt.center(51))
-    print('-=' * 25 + '-')
+# def titulo(txt):
+#     print('-=' * 25 + '-')
+#     print(txt.center(51))
+#     print('-=' * 25 + '-')
 
 
-#Programa
+# #Programa
 
-titulo('Controle de terrenos')
-a = float(input('Largura (m): '))
-b = float(input('Comprimento (m): '))
-print('-=' * 25 + '-')
-area(a, b)
+# titulo('Controle de terrenos')
+# a = float(input('Largura (m): '))
+# b = float(input('Comprimento (m): '))
+# print('-=' * 25 + '-')
+# area(a, b)
+
+""" Resolução Curso em Video """
+def área(larg, comp):
+    a = larg * comp
+    print(f'A área de um terreno {larg}x{comp} é de {a}m²')
+
+
+# Programa principal
+print(' Controle de Terrenos')
+print('-' * 20)
+l = float(input('LARGURA (m): '))
+c = float(input('COMPRIMENTO (m): '))
+área(l, c)
