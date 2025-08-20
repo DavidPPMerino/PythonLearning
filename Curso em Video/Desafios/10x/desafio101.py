@@ -7,3 +7,19 @@ obrigatorio else
 """
 
 " V1.0 "
+def voto(birth):
+    from datetime import date
+    global age
+    age = date.today().year - birth
+    if age < 18:
+        return "NÃO VOTA"
+    elif age > 65:
+        return "VOTO OPCIONAL"
+    else:
+        return "VOTO OBRIGATÓRIO"
+    
+
+age = 0
+resp = int(input("Em que ano você nasceu? "))
+votos = voto(resp)
+print(f"Com {age} anos: {votos}")
