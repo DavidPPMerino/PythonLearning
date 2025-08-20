@@ -6,7 +6,29 @@ não na tela o processo de cálculo do fatorial.
 
 " V1.0 "
 
-def fatorial(num, show=False):
+# def fatorial(num, show=False):
+#     """
+#     -> Calcula o Fatorial de um número.
+#     :param num: O número a ser calculado.
+#     :param show: (opcional) Mostrar ou não a conta!
+#     :return: O valor do Fatorial do número 'num'.
+#     """
+#     f = 1
+#     for c in range(num, 0, -1):
+#         f *= c
+#         if show:
+#             if c == num:
+#                 print(f'{c}! =', end=' ')
+#             if c > 1 :
+#                 print(f'{c} x', end=' ')
+#             else:
+#                 print(f'{c} =', end=' ')
+#     return f
+
+# print(fatorial(10, True))
+
+""" Resolução Curso em Video """
+def fatorial(n, show=False):
     """
     -> Calcula o Fatorial de um número.
     :param num: O número a ser calculado.
@@ -14,15 +36,16 @@ def fatorial(num, show=False):
     :return: O valor do Fatorial do número 'num'.
     """
     f = 1
-    for c in range(num, 0, -1):
-        f *= c
+    for c in range(n, 0, -1):
         if show:
-            if c == num:
-                print(f'{c}! =', end=' ')
-            if c > 1 :
-                print(f'{c} x', end=' ')
+            print(c, end='')
+            if c > 1:
+                print(' x ', end='')
             else:
-                print(f'{c} =', end=' ')
+                print(' = ', end='')
+        f += c
     return f
 
-print(fatorial(10, True))
+
+# Programa Principal
+print(fatorial(5, show=True))
