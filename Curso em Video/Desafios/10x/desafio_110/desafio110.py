@@ -5,7 +5,7 @@ funções que já temos no módulo criado até aqui.
 """
 
 " V1.0 "
-from desafio110 import moeda
+import moeda
 
 p = float(input('Digite o preço: R$'))
 moeda.resumo(p, 80, 35)
