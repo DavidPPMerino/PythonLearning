@@ -6,7 +6,8 @@ aceitar apenas valores que sejam 'monetários'.
 """
 
 " V1.0 "
-from desafio112.utilidadescev import dado
+from utilidadescev import moeda
+from utilidadescev import dado
 
 p = dado.leiaDinheiro('Digite o preço: R$')
 moeda.resumo(p, 35, 22)

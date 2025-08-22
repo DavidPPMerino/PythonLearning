@@ -6,7 +6,7 @@ o primeiro pacote e mantenha tudo funcionando.
 """
 
 " V1.0 "
-from desafio111.utilidadescev import moeda
+from utilidadescev import moeda
 
 p = float(input('Digite o preço: R$'))
 moeda.resumo(p, 35, 22)

@@ -1,0 +1,53 @@
+def aumentar(n, perc, brl=False):
+    x = n + (n * perc / 100)
+    if brl:
+        return f"R${x:.2f}"
+    else:
+        return x
+
+
+
+
+def diminuir(n, perc, brl=False):
+    x = n - (n * perc / 100)
+    if brl:
+        return f"R${x:.2f}"
+    else:
+        return x
+
+
+def dobro(n, brl=False):
+    x = n * 2
+    if brl:
+        return f"R${x:.2f}"
+    else:
+        return x
+
+
+def metade(n, brl=False):
+    x = n / 2
+    if brl:
+        return f"R${x:.2f}"
+    else:
+        return x
+
+
+def moeda(n):
+    return f"R${n:.2f}"
+
+
+def resumo(n, upperc, downperc):
+    print('-' * 40)
+    print('RESUMO DO VALOR'.center(40))
+    print('-' * 40)
+    print('Preço analisado:'.ljust(29), end='')
+    print(f'{moeda(n)}'.ljust(11))
+    print('Dobro do preço:'.ljust(29), end='')
+    print(f'{dobro(n, True)}'.ljust(11))
+    print('Metade do preço:'.ljust(29), end='')
+    print(f'{metade(n, True)}'.ljust(11))
+    print(f'{upperc}% de aumento:'.ljust(29), end='')
+    print(f'{aumentar(n, upperc, True)}'.ljust(11))
+    print(f'{downperc}% de redução:'.ljust(29), end='')
+    print(f'{diminuir(n, downperc, True)}'.ljust(11))
+    print('-' * 40)
